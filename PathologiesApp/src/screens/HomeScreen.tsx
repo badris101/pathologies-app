@@ -27,7 +27,7 @@ const HomeScreen = () => {
   };
 
   return (
-    <Center flex={1}>
+    <Center bg="white" flex={1}>
       <VStack bg="white" shadow={2} w="90%" space={15} px={5} py={5}>
         <Box>
           <Text color="muted.400" fontSize="xs">
