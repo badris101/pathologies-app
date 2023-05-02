@@ -65,7 +65,7 @@ const DetailsAgent = () => {
             </Box>
           </HStack>
         )}
-        keyExtractor={item => item.name}
+        keyExtractor={item => item}
       />
       <Actionsheet
         animationPreset="fade"

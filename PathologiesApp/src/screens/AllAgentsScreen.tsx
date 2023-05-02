@@ -20,7 +20,7 @@ const AgentsScreen = () => {
 
   return (
     <>
-      {/* <Box
+      <Box
         bg="#0891b2"
         alignItems="center"
         justifyContent="center"
@@ -32,7 +32,7 @@ const AgentsScreen = () => {
           onChangeText={value => setSearchTerm(value)}
           placeholder="Recherche"
         />
-      </Box> */}
+      </Box>
       <Box bg="white" flex={1}>
         <FlatList
           _contentContainerStyle={{
