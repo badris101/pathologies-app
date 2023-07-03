@@ -4861,7 +4861,7 @@ export const data = [
         name: 'Lésions chroniques du ménisque à caractère dégénératif',
         agents: [
           {
-            name: 'Lésions chroniques du ménisque ',
+            name: 'Lésions chroniques du ménisque',
             path: '210.pdf',
             n_table: '2.10',
           },
