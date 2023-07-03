@@ -1,10 +1,10 @@
 // @ts-nocheck
 export const data = [
   {
-    pathology_name: 'P. broncho-pulmonaires, pleurale',
+    pathology_name: 'Pathologies broncho-pulmonaires, pleurales',
     pathology_types: [
       {
-        name: 'CANCER BRONCHO-PULMONAIRE PRIMITIF',
+        name: 'Cancer broncho-pulmonaire primitif',
         agents: [
           {
             name: 'Acide chromique et les chromates et\nbichromates alcalins ou alcalino-terreux ainsi que par le chromate de zinc',
@@ -22,19 +22,19 @@ export const data = [
             n_table: '1.1.17 bis',
           },
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
           {
-            name: 'Poussie\u0300res de cobalt associe\u0301es au carbure de tungste\u0300ne avant frittage. ',
+            name: 'Poussières de cobalt associées au carbure de tungstène avant frittage. ',
             path: '114TER.pdf',
             n_table: '1.1.4 ter',
           },
         ],
       },
       {
-        name: 'ASTHME',
+        name: 'Asthme',
         agents: [
           {
             name: 'Acide chromique, chromates et bichromates alcalins',
@@ -42,49 +42,49 @@ export const data = [
             n_table: '1.1.19 bis',
           },
           {
-            name: 'Alde\u0301hyde formique et ses polyme\u0300res ',
+            name: 'Aldéhyde formique et ses polymères ',
             path: '128.pdf',
             n_table: '1.2.8',
           },
           {
-            name: "Amines aliphatiques, les e\u0301thanolamines ou l'isophoronediamine ",
+            name: "Amines aliphatiques, les éthanolamines ou l'isophoronediamine ",
             path: '1211BIS.pdf',
             n_table: '1.2.11 bis',
           },
           {
-            name: 'Amines aromatiques, leurs sels et leurs de\u0301rive\u0301s notamment hydroxyle\u0301s, haloge\u0301ne\u0301s, nitre\u0301s, nitrose\u0301s et sulfone\u0301s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
             name: 'Animaux ( y compris arthropodes et larves)',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'B\u00e9talactamines (Pe\u0301nicillines et leurs sels ) et les ce\u0301phalosporines',
+            name: 'Bétalactamines (Pénicillines et leurs sels ) et les céphalosporines',
             path: '152.pdf',
             n_table: '1.5.2',
           },
           {
             name: 'Carmin',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Cobalt et ses compose\u0301s',
+            name: 'Cobalt et ses composés',
             path: '114.pdf',
             n_table: '1.1.4',
           },
           {
             name: 'Duvets',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Ensachage de grains de c\u00e9r\u00e9ales',
+            name: 'Ensachage de grains de céréales',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Enzymes ',
@@ -94,62 +94,62 @@ export const data = [
           {
             name: 'Farines',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Feutres naturels',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: "Filature et tissage de textiles d'origine v\u00e9g\u00e9tale",
+            name: "Filature et tissage de textiles d'origine végétale",
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Fongicides ',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Fourrures',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: "Furfural et l'alcool furfurylique ",
             path: '1219.pdf',
-            n_table: '1.2.19',
+            n_table: 'NaN',
           },
           {
-            name: 'Grains de c\u00e9r\u00e9ales',
+            name: 'Grains de céréales',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Henn\u00e9',
+            name: 'Henné',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: "Huile d'ambrette",
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Huile de ricin ',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: "Inhalation d'anhydrides d'acides volatiles",
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Ip\u00e9ca',
+            name: 'Ipéca',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Isocyanates organiques ',
@@ -159,190 +159,190 @@ export const data = [
           {
             name: 'Lycopode',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Me\u0301thacrylate de me\u0301thyle ',
+            name: 'Méthacrylate de méthyle ',
             path: '1217.pdf',
             n_table: '1.2.17',
           },
           {
             name: 'Ouvertures des balles',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Peignage',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Phe\u0301nylhyarazine ',
+            name: 'Phénylhyarazine ',
             path: '1221.pdf',
             n_table: '1.2.21',
           },
           {
             name: 'Plumes',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Pollens',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: "Poudre d'insecte",
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Poussie\u0300res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
           {
-            name: 'Prot\u00e9ine en a\u00e9rosol',
+            name: 'Protéine en aérosol',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'Prote\u0301ines du latex (ou caoutchouc naturel) ',
+            name: 'Protéines du latex (ou caoutchouc naturel) ',
             path: '163.pdf',
             n_table: '1.6.3',
           },
           {
             name: 'Quinine',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: "R\u00e9sidus d'extraction d'huiles",
+            name: "Résidus d'extraction d'huiles",
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
-            name: 'S\u00e9ricine',
+            name: 'Séricine',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
           {
             name: 'Spores',
             path: '181.pdf',
-            n_table: '1.8.1',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'BRONCHO-PNEUMONIE',
+        name: 'Broncho-pneumonie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'PNEUMONIE',
+        name: 'Pneumonie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'BRONCHO-PNEUMOPATHIE SUBAIGUE',
+        name: 'Broncho-pneumopathie subaiguë',
         agents: [
           {
-            name: 'Antimoine et ses d\u00e9riv\u00e9s',
+            name: 'Antimoine et ses dérivés',
             path: '1121.pdf',
             n_table: '1.1.21',
           },
           {
-            name: 'B\u00e9ryllium et a\u0300 ses compose\u0301s ',
+            name: 'Béryllium et à ses composés ',
             path: '115.pdf',
             n_table: '1.1.5',
           },
           {
-            name: "Pneumopathies d'hypersensibilite\u0301 ",
+            name: "Pneumopathies d'hypersensibilité ",
             path: '182.pdf',
             n_table: '1.8.2',
           },
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
           {
-            name: 'S\u00e9l\u00e9nium et ses d\u00e9riv\u00e9s min\u00e9raux',
+            name: 'Sélénium et ses dérivés minéraux',
             path: '120.pdf',
             n_table: '1.1.20',
           },
           {
-            name: 'Spiroche\u0301toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
           {
-            name: 'Tulare\u0301mie ',
+            name: 'Tularémie ',
             path: '316.pdf',
             n_table: '3.16',
           },
         ],
       },
       {
-        name: 'STIBIOSE',
+        name: 'Stibiose',
         agents: [
           {
-            name: 'Antimoine et ses d\u00e9riv\u00e9s',
+            name: 'Antimoine et ses dérivés',
             path: '1121.pdf',
             n_table: '1.1.21',
           },
         ],
       },
       {
-        name: 'DYSPNEE AIGUE',
+        name: 'Dyspnée AIGUE',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
         ],
       },
       {
-        name: 'TUBERCULOSE PLEURALE',
+        name: 'Tuberculose pleurale',
         agents: [
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobacte\u0301ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
         ],
       },
       {
-        name: 'TUBERCULOSE PULMONAIRE',
+        name: 'Tuberculose pulmonaire',
         agents: [
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobacte\u0301ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
         ],
       },
       {
-        name: 'BRONCHO-PNEUMOPATHIE AIGUE',
+        name: 'Broncho-pneumopathie aigue',
         agents: [
           {
-            name: 'B\u00e9ryllium et a\u0300 ses compose\u0301s ',
+            name: 'Béryllium et à ses composés ',
             path: '115.pdf',
             n_table: '1.1.5',
           },
@@ -352,72 +352,72 @@ export const data = [
             n_table: '3.7',
           },
           {
-            name: "Pneumopathies d'hypersensibilite\u0301 ",
+            name: "Pneumopathies d'hypersensibilité ",
             path: '182.pdf',
             n_table: '1.8.2',
           },
         ],
       },
       {
-        name: 'FIBROSE PULMONAIRE',
+        name: 'Fibrose pulmonaire',
         agents: [
           {
-            name: 'B\u00e9ryllium et a\u0300 ses compose\u0301s ',
+            name: 'Béryllium et à ses composés ',
             path: '115.pdf',
             n_table: '1.1.5',
           },
           {
-            name: "Pneumopathies d'hypersensibilite\u0301 ",
+            name: "Pneumopathies d'hypersensibilité ",
             path: '182.pdf',
             n_table: '1.8.2',
           },
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
           {
-            name: 'Poussie\u0300res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'PNEUMOTHORAX SPONTANE',
+        name: 'Pneumothorax spontané',
         agents: [
           {
-            name: 'B\u00e9ryllium et a\u0300 ses compose\u0301s ',
+            name: 'Béryllium et à ses composés ',
             path: '115.pdf',
             n_table: '1.1.5',
           },
         ],
       },
       {
-        name: 'DYSPNEE ASTHMATIFORME',
+        name: 'Dyspnée ASTHMATIFORME',
         agents: [
           {
-            name: 'B\u00e9talactamines (Pe\u0301nicillines et leurs sels ) et les ce\u0301phalosporines',
+            name: 'Bétalactamines (Pénicillines et leurs sels ) et les céphalosporines',
             path: '152.pdf',
             n_table: '1.5.2',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'CANCER BRONCHIQUE PRIMITIF',
+        name: 'Cancer bronchique primitif',
         agents: [
           {
-            name: 'Bis (Chlorome\u0301thyle) e\u0301ther ',
+            name: 'Bis (Chlorométhyle) éther ',
             path: '1218.pdf',
             n_table: '1.2.18',
           },
@@ -429,7 +429,7 @@ export const data = [
         ],
       },
       {
-        name: 'BRONCHITE',
+        name: 'Bronchite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -439,7 +439,7 @@ export const data = [
         ],
       },
       {
-        name: 'PLEURESIE SERO-FIBRINEUSE',
+        name: 'Pleurésie séro-fibrineuse',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -449,22 +449,22 @@ export const data = [
         ],
       },
       {
-        name: 'BRONCHOPNEUMOPATHIES AIGUES',
+        name: 'Bronchopneumopathies aigues',
         agents: [
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'BRONCHO-PNEUMOPATHIE CHRONIQUE OBSTRUCTIVE',
+        name: 'Broncho-pneumopathie chronique obstructive',
         agents: [
           {
             name: 'Charbon',
@@ -477,7 +477,7 @@ export const data = [
             n_table: '3.3',
           },
           {
-            name: 'Cobalt et ses compose\u0301s',
+            name: 'Cobalt et ses composés',
             path: '114.pdf',
             n_table: '1.1.4',
           },
@@ -487,14 +487,14 @@ export const data = [
             n_table: '1.1.16',
           },
           {
-            name: 'Poussie\u0300res textiles ve\u0301ge\u0301tales ',
+            name: 'Poussières textiles végétales ',
             path: '161.pdf',
             n_table: '1.6.1',
           },
         ],
       },
       {
-        name: 'CHARBON PULMONAIRE',
+        name: 'Charbon pulmonaire',
         agents: [
           {
             name: 'Charbon professionnel ',
@@ -504,77 +504,77 @@ export const data = [
         ],
       },
       {
-        name: 'DYSPNEE ASMATHIFORME',
+        name: 'Dyspnée ASMATHIFORME',
         agents: [
           {
-            name: 'Cobalt et ses compose\u0301s',
+            name: 'Cobalt et ses composés',
             path: '114.pdf',
             n_table: '1.1.4',
           },
         ],
       },
       {
-        name: 'INSUFFISANCE RESPIRATOIRE CHRONIQUE',
+        name: 'Insuffisance respiratoire CHRONIQUE',
         agents: [
           {
-            name: 'Cobalt et ses compose\u0301s',
+            name: 'Cobalt et ses composés',
             path: '114.pdf',
             n_table: '1.1.4',
           },
         ],
       },
       {
-        name: 'IRRITATION DES VOIES AERIENNES SUPERIEURES',
+        name: 'Irritation des voies aériennes supérieures',
         agents: [
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE IRRITATIVE DES VOIES AERIENNES SUPERIEURES',
+        name: 'Atteinte irritative des voies aériennes supérieures',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'OEDEME AIGU DU POUMON',
+        name: 'Œdème aigu du poumon',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'GRANULOME PULMONAIRE',
+        name: 'Granulome pulmonaire',
         agents: [
           {
-            name: "Huiles et graisses d'origine mine\u0301rale ou de synthe\u0300se ",
+            name: "Huiles et graisses d'origine minérale ou de synthèse ",
             path: '125;.pdf',
             n_table: '1.2.5',
           },
         ],
       },
       {
-        name: 'INSUFFISANCE RESPIRATOIRE',
+        name: 'Insuffisance respiratoire',
         agents: [
           {
-            name: "Huiles et graisses d'origine mine\u0301rale ou de synthe\u0300se ",
+            name: "Huiles et graisses d'origine minérale ou de synthèse ",
             path: '125;.pdf',
             n_table: '1.2.5',
           },
         ],
       },
       {
-        name: 'PNEUMATHIE INTERSTITIELLE SUBAIGUE',
+        name: 'Pneumopathie interstitielle subaiguë',
         agents: [
           {
             name: 'Isocyanates organiques ',
@@ -584,7 +584,7 @@ export const data = [
         ],
       },
       {
-        name: "PNEUMOPATHIE D'HYPERSENSIBILITE",
+        name: "Pneumopathie d'hypersensibilité",
         agents: [
           {
             name: 'Isocyanates organiques ',
@@ -594,7 +594,7 @@ export const data = [
         ],
       },
       {
-        name: 'PNEUMOPATHIES INTERSTITIELLE AIGUE',
+        name: 'Pneumopathie interstitielle aigue',
         agents: [
           {
             name: 'Isocyanates organiques ',
@@ -604,7 +604,7 @@ export const data = [
         ],
       },
       {
-        name: 'SYNDROME BRONCHIQUE RECIDIVANT',
+        name: 'Syndrome bronchique récidivant',
         agents: [
           {
             name: 'Isocyanates organiques ',
@@ -614,17 +614,17 @@ export const data = [
         ],
       },
       {
-        name: 'TROUBLES PULMONAIRES: MANGANISME',
+        name: 'Troubles pulmonaires: manganisme',
         agents: [
           {
-            name: 'Mangane\u0300se',
+            name: 'Manganèse',
             path: '113.pdf',
             n_table: '1.1.3',
           },
         ],
       },
       {
-        name: 'EMPHYSEME',
+        name: 'Emphysème',
         agents: [
           {
             name: 'Mines de fer',
@@ -632,162 +632,162 @@ export const data = [
             n_table: '1.1.17 bis',
           },
           {
-            name: 'Poussi\u00e8re de fer',
+            name: 'Poussière de fer',
             path: 'POUSSIERE FER.pdf',
             n_table: '1.1.17',
           },
         ],
       },
       {
-        name: 'OEDEME BRONCHO-ALVEOLAIRE',
+        name: 'Œdème broncho-alvéolaire',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'SIDEROSE: PNEUMOPATHIE INTERSTITIELLE DIFFUSE',
+        name: 'Sidérose : pneumopathie interstitielle diffuse',
         agents: [
           {
-            name: 'Poussi\u00e8re de fer',
+            name: 'Poussière de fer',
             path: 'POUSSIERE FER.pdf',
             n_table: '1.1.17',
           },
         ],
       },
       {
-        name: 'LESIONS PLEURALES BENIGNES',
+        name: 'Lésions pleurales bénignes',
         agents: [
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
         ],
       },
       {
-        name: 'MESOTHELIOME',
+        name: 'Mésothéliome',
         agents: [
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
         ],
       },
       {
-        name: 'PLEURESIE EXCUDATIVE',
+        name: 'Pleurésie exsudative',
         agents: [
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
         ],
       },
       {
-        name: 'EXPECTORATIONS',
+        name: 'Expectorations',
         agents: [
           {
-            name: 'Poussie\u0300res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
         ],
       },
       {
-        name: 'TOUX ',
+        name: 'Toux ',
         agents: [
           {
-            name: 'Poussie\u0300res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'BRONCHO-ALVEOLITE AIGUE',
+        name: 'Broncho-alvéolite aigue',
         agents: [
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'BRONCHO-ALVEOLITE SUBAIGUE',
+        name: 'Broncho-alvéolite subaiguë',
         agents: [
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'DYSPNEE',
+        name: 'Dyspnée',
         agents: [
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'INFECTION PULMONAIRE',
+        name: 'Infection pulmonaire',
         agents: [
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'SYNDROME IRRITATIF',
+        name: 'Syndrome irritatif',
         agents: [
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'SYNDROME OBSTRUCTIF AIGU',
+        name: 'Syndrome obstructif aigu',
         agents: [
           {
-            name: 'Poussie\u0300res textiles ve\u0301ge\u0301tales ',
+            name: 'Poussières textiles végétales ',
             path: '161.pdf',
             n_table: '1.6.1',
           },
         ],
       },
       {
-        name: 'AFFECTIONS DES VOIES AERIENNES',
+        name: 'Affections des voies aériennes',
         agents: [
           {
-            name: 'S\u00e9l\u00e9nium et ses d\u00e9riv\u00e9s min\u00e9raux',
+            name: 'Sélénium et ses dérivés minéraux',
             path: '120.pdf',
             n_table: '1.1.20',
           },
         ],
       },
       {
-        name: 'OEDEME PULMONAIRE',
+        name: 'Œdème pulmonaire',
         agents: [
           {
-            name: 'S\u00e9l\u00e9nium et ses d\u00e9riv\u00e9s min\u00e9raux',
+            name: 'Sélénium et ses dérivés minéraux',
             path: '120.pdf',
             n_table: '1.1.20',
           },
@@ -796,10 +796,10 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. oeil et vision / P. ORL et stomato',
+    pathology_name: 'Pathologies ophtalmologiques, ORL et stomatologiques',
     pathology_types: [
       {
-        name: 'CANCER DES CAVITES NASALES',
+        name: 'Cancer des cavités nasales',
         agents: [
           {
             name: 'Acide chromique et les chromates et\nbichromates alcalins ou alcalino-terreux ainsi que par le chromate de zinc',
@@ -817,44 +817,44 @@ export const data = [
             n_table: '1.1.19 bis',
           },
           {
-            name: 'Ald\u00e9hyde formique et ses polym\u00e8res ',
+            name: 'Aldéhyde formique et ses polymères ',
             path: '128.pdf',
             n_table: '1.2.8',
           },
           {
-            name: "Amines aliphatiques, les \u00e9thanolamines ou l'isophoronediamine ",
+            name: "Amines aliphatiques, les éthanolamines ou l'isophoronediamine ",
             path: '1211BIS.pdf',
             n_table: '1.2.11 bis',
           },
           {
-            name: 'Amines aromatiques, leurs sels et leurs d\u00e9riv\u00e9s notamment hydroxyl\u00e9s, halog\u00e9n\u00e9s, nitr\u00e9s, nitros\u00e9s et sulfon\u00e9s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Cobalt et ses compos\u00e9s',
+            name: 'Cobalt et ses composés',
             path: '114.pdf',
             n_table: '1.1.4',
           },
           {
             name: "Furfural et l'alcool furfurylique ",
             path: '1219.pdf',
-            n_table: NaN,
+            n_table: 'NaN',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
           {
-            name: 'Ph\u00e9nylhyarazine ',
+            name: 'Phénylhyarazine ',
             path: '1221.pdf',
             n_table: '1.2.21',
           },
         ],
       },
       {
-        name: 'ULCERATIONS NASALES',
+        name: 'Ulcérations NASALES',
         agents: [
           {
             name: 'Acide chromique, chromates et bichromates alcalins, chromates de zinc et sulfate de chrome',
@@ -862,7 +862,7 @@ export const data = [
             n_table: '1.1.19',
           },
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -877,27 +877,27 @@ export const data = [
         name: 'ATTEINTE AURICULAIRE',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'CONJONCTIVITE',
+        name: 'Conjonctivite',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'B\u00e9ryllium et ses compos\u00e9s',
+            name: 'Béryllium et ses composés',
             path: '115.pdf',
             n_table: '1.1.5',
           },
@@ -912,7 +912,7 @@ export const data = [
             n_table: '1.1.11',
           },
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9s du ph\u00e9nol (dinitroph\u00e9nols,dinitro-orthocr\u00e9sol, dinoseb), par le pentachloroph\u00e9nol, les pentachloroph\u00e9nates et par les d\u00e9riv\u00e9s halog\u00e8nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
@@ -924,30 +924,30 @@ export const data = [
           {
             name: "Furfural et l'alcool furfurylique ",
             path: '1219.pdf',
-            n_table: NaN,
+            n_table: 'NaN',
           },
           {
-            name: 'Goudrons de houille, les huiles de houille (comprenant les fractions de distillations dites ph\u00e9noliques, naphtal\u00e9niques, ac\u00e9napht\u00e9niques, anthrac\u00e9niques et chrys\u00e9niques), les brais ',
+            name: 'Goudrons de houille, les huiles de houille (comprenant les fractions de distillations dites phénoliques, naphtaléniques, acénaphténiques, anthracéniques et chryséniques), les brais ',
             path: '1222.pdf',
             n_table: '1.2.22',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
           {
-            name: 'M\u00e9thacrylate de m\u00e9thyle ',
+            name: 'Méthacrylate de méthyle ',
             path: '1217.pdf',
             n_table: '1.2.17',
           },
           {
-            name: 'Poussi\u00e8res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
           {
-            name: 'Prot\u00e9ines du latex (ou caoutchouc naturel) ',
+            name: 'Protéines du latex (ou caoutchouc naturel) ',
             path: '163.pdf',
             n_table: '1.6.3',
           },
@@ -957,7 +957,7 @@ export const data = [
             n_table: '2.1',
           },
           {
-            name: 'S\u00e9l\u00e9nium et ses d\u00e9riv\u00e9s min\u00e9raux',
+            name: 'Sélénium et ses dérivés minéraux',
             path: '120.pdf',
             n_table: '1.1.20',
           },
@@ -967,27 +967,27 @@ export const data = [
         name: 'OTITE MOYENNE SUBAIGUE OU CHRONIQUE',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'Pression est inf\u00e9rieure a\u0300 la pression atmosph\u00e9rique et soumise a\u0300 variations ',
+            name: 'Pression est inférieure à la pression atmosphérique et soumise à variations ',
             path: '212.pdf',
             n_table: '2.12',
           },
           {
-            name: 'Pression est sup\u00e9rieure a\u0300 la pression atmosph\u00e9rique ',
+            name: 'Pression est supérieure à la pression atmosphérique ',
             path: '211.pdf',
             n_table: '2.11',
           },
         ],
       },
       {
-        name: 'BLEPHAROCONJONCTIVITE',
+        name: 'BLEPHAROConjonctivite',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
@@ -999,10 +999,10 @@ export const data = [
         ],
       },
       {
-        name: 'KERATITE ',
+        name: 'Kératite ',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
@@ -1012,7 +1012,7 @@ export const data = [
         name: 'STOMATITE',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
@@ -1022,7 +1022,7 @@ export const data = [
         name: 'RHINITE',
         agents: [
           {
-            name: 'B\u00e9talactamines (P\u00e9nicillines et leurs sels ) et les c\u00e9phalosporines',
+            name: 'Bétalactamines (Pénicillines et leurs sels ) et les céphalosporines',
             path: '152.pdf',
             n_table: '1.5.2',
           },
@@ -1037,12 +1037,12 @@ export const data = [
             n_table: '1.3.2',
           },
           {
-            name: 'M\u00e9thacrylate de m\u00e9thyle ',
+            name: 'Méthacrylate de méthyle ',
             path: '1217.pdf',
             n_table: '1.2.17',
           },
           {
-            name: 'Prot\u00e9ines du latex (ou caoutchouc naturel) ',
+            name: 'Protéines du latex (ou caoutchouc naturel) ',
             path: '163.pdf',
             n_table: '1.6.3',
           },
@@ -1052,7 +1052,7 @@ export const data = [
         name: 'AMAUROSE',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
@@ -1062,12 +1062,12 @@ export const data = [
         name: 'AMBLYOPIE',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
@@ -1077,7 +1077,7 @@ export const data = [
         name: 'DIPLOPIE',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
@@ -1087,12 +1087,12 @@ export const data = [
         name: 'HYPERACOUSIE',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Bruits l\u00e9sionnels ',
+            name: 'Bruits lésionnels ',
             path: '25.pdf',
             n_table: '2.5',
           },
@@ -1102,17 +1102,17 @@ export const data = [
         name: 'TROUBLES LABYRINTHIQUES',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'VERTIGES',
+        name: 'Vertiges',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
@@ -1122,7 +1122,7 @@ export const data = [
         name: 'ACOUPHENES',
         agents: [
           {
-            name: 'Bruits l\u00e9sionnels ',
+            name: 'Bruits lésionnels ',
             path: '25.pdf',
             n_table: '2.5',
           },
@@ -1154,7 +1154,7 @@ export const data = [
         ],
       },
       {
-        name: 'BLEPHAROCONJONCTIVITE RECIDIVANTE',
+        name: 'BLEPHAROConjonctivite RECIDIVANTE',
         agents: [
           {
             name: 'Isocyanates organiques ',
@@ -1164,50 +1164,50 @@ export const data = [
         ],
       },
       {
-        name: 'CONJONCTIVITE OEDEMATEUSE',
+        name: 'Conjonctivite OEDEMATEUSE',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
         ],
       },
       {
-        name: 'KERATITE NUMMULAIRE SOUS EPITHELIALE',
+        name: 'Kératite NUMMULAIRE SOUS EPITHELIALE',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
         ],
       },
       {
-        name: 'CONJONCTIVITE FOLLICULAIRE',
+        name: 'Conjonctivite FOLLICULAIRE',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
         ],
       },
       {
-        name: 'CONJONCTIVITE HEMORRAGIQUE',
+        name: 'Conjonctivite HEMORRAGIQUE',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
         ],
       },
       {
-        name: 'KERATITE SUPERFICIELLE ULCEREUSE',
+        name: 'Kératite SUPERFICIELLE ULCEREUSE',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
@@ -1227,7 +1227,7 @@ export const data = [
         name: 'LESION OREILLE INTERNE',
         agents: [
           {
-            name: 'Pression est inf\u00e9rieure a\u0300 la pression atmosph\u00e9rique et soumise a\u0300 variations ',
+            name: 'Pression est inférieure à la pression atmosphérique et soumise à variations ',
             path: '212.pdf',
             n_table: '2.12',
           },
@@ -1237,17 +1237,17 @@ export const data = [
         name: 'HYPOACOUSIE',
         agents: [
           {
-            name: 'Pression est sup\u00e9rieure a\u0300 la pression atmosph\u00e9rique ',
+            name: 'Pression est supérieure à la pression atmosphérique ',
             path: '211.pdf',
             n_table: '2.11',
           },
         ],
       },
       {
-        name: 'SYNDROME VERTIGINEUX',
+        name: 'Syndrome vertigineux',
         agents: [
           {
-            name: 'Pression est sup\u00e9rieure a\u0300 la pression atmosph\u00e9rique ',
+            name: 'Pression est supérieure à la pression atmosphérique ',
             path: '211.pdf',
             n_table: '2.11',
           },
@@ -1272,14 +1272,14 @@ export const data = [
         name: 'PTERYGION',
         agents: [
           {
-            name: 'Rayonnement thermique associ\u00e9 aux poussi\u00e8res ',
+            name: 'Rayonnement thermique associé aux poussières ',
             path: '22 BIS.pdf',
             n_table: '2.2 BIS',
           },
         ],
       },
       {
-        name: 'KERATITE',
+        name: 'Kératite',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -1292,14 +1292,14 @@ export const data = [
         name: 'BRULURES OCULAIRES',
         agents: [
           {
-            name: 'S\u00e9l\u00e9nium et ses d\u00e9riv\u00e9s min\u00e9raux',
+            name: 'Sélénium et ses dérivés minéraux',
             path: '120.pdf',
             n_table: '1.1.20',
           },
         ],
       },
       {
-        name: 'NEVRITE OPTIQUE',
+        name: 'Névrite OPTIQUE',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -1314,7 +1314,7 @@ export const data = [
     pathology_name: 'Cancers',
     pathology_types: [
       {
-        name: 'CANCER BRONCHO-PULMONAIRE PRIMITIF',
+        name: 'Cancer broncho-pulmonaire primitif',
         agents: [
           {
             name: 'Acide chromique et les chromates et\nbichromates alcalins ou alcalino-terreux ainsi que par le chromate de zinc',
@@ -1322,12 +1322,12 @@ export const data = [
             n_table: '1.1.19 ter',
           },
           {
-            name: 'Poussi\u00e8res de cobalt associ\u00e9es au carbure de tungst\u00e8ne avant frittage. ',
+            name: 'Poussières de cobalt associées au carbure de tungstène avant frittage. ',
             path: '114TER.pdf',
             n_table: '1.1.4 ter',
           },
           {
-            name: 'Poussi\u00e8res de cobalt associ\u00e9es au carbure de tungst\u00e8ne avant frittage. ',
+            name: 'Poussières de cobalt associées au carbure de tungstène avant frittage. ',
             path: '114TER.pdf',
             n_table: '1.1.4 ter',
           },
@@ -1339,7 +1339,7 @@ export const data = [
         ],
       },
       {
-        name: 'CANCER DES CAVITES NASALES',
+        name: 'Cancer des cavités nasales',
         agents: [
           {
             name: 'Acide chromique et les chromates et\nbichromates alcalins ou alcalino-terreux ainsi que par le chromate de zinc',
@@ -1347,34 +1347,34 @@ export const data = [
             n_table: '1.1.19 ter',
           },
           {
-            name: 'Poussi\u00e8res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
         ],
       },
       {
-        name: 'ANGIOSARCOME DU FOIE',
+        name: 'Angiosarcome du foie',
         agents: [
           {
-            name: 'Ald\u00e9hyde formique et ses polym\u00e8res ',
+            name: 'Aldéhyde formique et ses polymères ',
             path: '128.pdf',
             n_table: '1.2.8',
           },
         ],
       },
       {
-        name: 'CARCINOME DU NASOPHARYNX',
+        name: 'Carcinome du nasopharynx',
         agents: [
           {
-            name: 'Ald\u00e9hyde formique et ses polym\u00e8res ',
+            name: 'Aldéhyde formique et ses polymères ',
             path: '128.pdf',
             n_table: '1.2.8',
           },
         ],
       },
       {
-        name: "LESION PRIMITIVE DE L'EPITHELIUM VESICAL",
+        name: "Lésion primitive de l'épithélium vésical",
         agents: [
           {
             name: 'Amines aromatiques et leurs sels et la N-Nitroso-dibutylamine et ses sels ',
@@ -1384,7 +1384,7 @@ export const data = [
         ],
       },
       {
-        name: 'LESIONS PRIMITIVES DE LEPITHELIUM VESICAL',
+        name: 'Lésions primitives de l’épithélium vésical',
         agents: [
           {
             name: 'Amines aromatiques et leurs sels et la N-Nitroso-dibutylamine et ses sels ',
@@ -1394,25 +1394,25 @@ export const data = [
         ],
       },
       {
-        name: 'ADENOCARCINOME HEPATOCELLAIRE',
+        name: 'Adénocarcinome hépatocellulaire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'CANCER BRONCHIQUE PRIMITIF',
+        name: 'Cancer bronchique primitif',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Bis (Chlorom\u00e9thyle) \u00e9ther ',
+            name: 'Bis (Chlorométhyle) éther ',
             path: '1218.pdf',
             n_table: '1.2.18',
           },
@@ -1432,47 +1432,47 @@ export const data = [
             n_table: '1.1.17 bis',
           },
           {
-            name: 'Poussi\u00e8res et vapeur arsenicales',
+            name: 'Poussières et vapeur arsenicales',
             path: '116BIS.pdf',
             n_table: '1.1.6 bis',
           },
         ],
       },
       {
-        name: 'CANCER DES VOIES URINAIRES',
+        name: 'Cancer des voies urinaires',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'CARCINOME CUTANE BASO-CELLULAIRE',
+        name: 'Carcinome cutané basocellulaire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'CARCINOME CUTANE SPINO-CELLAULAIRE',
+        name: 'Carcinome cutané spinocellulaire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'EPITHELIOMA CUTANE PRIMITIF',
+        name: 'Epithélioma cutané primitif',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
@@ -1484,17 +1484,17 @@ export const data = [
         ],
       },
       {
-        name: 'MALADIE DE BOWEN',
+        name: 'Maladie de Bowen',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: "LESION PRIMITIVE DE L'EPITHELIUM URINAIRE",
+        name: "Lésion primitive de l'épithélium urinaire",
         agents: [
           {
             name: 'Goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon ',
@@ -1504,7 +1504,7 @@ export const data = [
         ],
       },
       {
-        name: "CANCER PRIMITIF DE L'ETHMOIDE",
+        name: "Cancer primitif de l'ethmoïde",
         agents: [
           {
             name: 'Grillage des mattes de nickel',
@@ -1514,7 +1514,7 @@ export const data = [
         ],
       },
       {
-        name: 'CANCER DES SINUS DE LA FACE',
+        name: 'Cancer des sinus de la face',
         agents: [
           {
             name: 'Grillage des mattes de nickel',
@@ -1522,24 +1522,24 @@ export const data = [
             n_table: '1.1.8 ter',
           },
           {
-            name: 'Poussi\u00e8res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
         ],
       },
       {
-        name: "CANCER DE L'ETHMOIDE",
+        name: "Cancer de l'ethmoïde",
         agents: [
           {
-            name: 'Poussi\u00e8res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
         ],
       },
       {
-        name: 'LEUCEMIES',
+        name: 'Leucémies',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -1549,7 +1549,7 @@ export const data = [
         ],
       },
       {
-        name: 'SARCOME OSSEUX',
+        name: 'Sarcome osseux',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -1559,10 +1559,10 @@ export const data = [
         ],
       },
       {
-        name: 'CARCINOME HEPATO-CELLULAIRE',
+        name: 'Carcinome hépato-cellulaire',
         agents: [
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
@@ -1571,10 +1571,10 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. cutan\u00e9o-muqueuse',
+    pathology_name: 'P. cutanéo-muqueuse',
     pathology_types: [
       {
-        name: 'LESIONS ECZEMATIFORMES',
+        name: 'Lésions eczématiformes',
         agents: [
           {
             name: 'Acide chromique, chromates et bichromates alcalins, chromates de zinc et sulfate de chrome',
@@ -1582,37 +1582,37 @@ export const data = [
             n_table: '1.1.19',
           },
           {
-            name: 'Alde\u0301hyde formique et ses polyme\u0300res ',
+            name: 'Aldéhyde formique et ses polymères ',
             path: '128.pdf',
             n_table: '1.2.8',
           },
           {
-            name: 'Amines aromatiques, leurs sels et leurs de\u0301rive\u0301s notamment hydroxyle\u0301s, haloge\u0301ne\u0301s, nitre\u0301s, nitrose\u0301s et sulfone\u0301s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Aminoglycosides, notamment la streptomycine, par la ne\u0301omycine et ses sels ',
+            name: 'Aminoglycosides, notamment la streptomycine, par la néomycine et ses sels ',
             path: '151.pdf',
             n_table: '1.5.1',
           },
           {
-            name: 'Aminoglycosides, notamment la streptomycine, par la ne\u0301omycine et ses sels ',
+            name: 'Aminoglycosides, notamment la streptomycine, par la néomycine et ses sels ',
             path: '151.pdf',
             n_table: '1.5.1',
           },
           {
-            name: 'Antimoine et ses d\u00e9riv\u00e9s',
+            name: 'Antimoine et ses dérivés',
             path: '1121.pdf',
             n_table: '1.1.21',
           },
           {
-            name: 'B\u00e9ryllium et ses compose\u0301s',
+            name: 'Béryllium et ses composés',
             path: '115.pdf',
             n_table: '1.1.5',
           },
           {
-            name: 'B\u00e9talactamines (Pe\u0301nicillines et leurs sels ) et les ce\u0301phalosporines',
+            name: 'Bétalactamines (Pénicillines et leurs sels ) et les céphalosporines',
             path: '152.pdf',
             n_table: '1.5.2',
           },
@@ -1622,7 +1622,7 @@ export const data = [
             n_table: '1.5.3',
           },
           {
-            name: 'Cobalt et ses compose\u0301s',
+            name: 'Cobalt et ses composés',
             path: '114.pdf',
             n_table: '1.1.4',
           },
@@ -1634,10 +1634,10 @@ export const data = [
           {
             name: "Furfural et l'alcool furfurylique ",
             path: '1219.pdf',
-            n_table: '1.2.19',
+            n_table: 'NaN',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, he\u0301te\u0301rocycliques et aromatiques, et leurs me\u0301langes (white spirit, essences spe\u0301ciales) ; de\u0301rive\u0301s nitre\u0301s des hydrocarbures aliphatiques ; ace\u0301tonitrile ; alcools, alde\u0301hydes, ce\u0301tone, esters, e\u0301thers dont le te\u0301trahydrofurane, glycols et leurs e\u0301thers ; dime\u0301thylformamide, dime\u0301thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
@@ -1647,44 +1647,44 @@ export const data = [
             n_table: '1.3.2',
           },
           {
-            name: 'Mercure et ses compose\u0301s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
           {
-            name: 'Mercure et ses compose\u0301s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
           {
-            name: 'Me\u0301thacrylate de me\u0301thyle ',
+            name: 'Méthacrylate de méthyle ',
             path: '1217.pdf',
             n_table: '1.2.17',
           },
           {
-            name: 'Phe\u0301nylhyarazine ',
+            name: 'Phénylhyarazine ',
             path: '1221.pdf',
             n_table: '1.2.21',
           },
           {
-            name: 'Poussie\u0300res de bois ',
+            name: 'Poussières de bois ',
             path: '162.pdf',
             n_table: '1.6.2',
           },
           {
-            name: 'Prote\u0301ines du latex (ou caoutchouc naturel) ',
+            name: 'Protéines du latex (ou caoutchouc naturel) ',
             path: '163.pdf',
             n_table: '1.6.3',
           },
           {
-            name: 'Re\u0301sines e\u0301poxydiques et leurs constituants ',
+            name: 'Résines époxydiques et leurs constituants ',
             path: '131.pdf',
             n_table: '1.3.1',
           },
         ],
       },
       {
-        name: 'ULCERATIONS CUTANEES',
+        name: 'Ulcérations cutanées',
         agents: [
           {
             name: 'Acide chromique, chromates et bichromates alcalins, chromates de zinc et sulfate de chrome',
@@ -1704,45 +1704,45 @@ export const data = [
         ],
       },
       {
-        name: 'DERMITE IRRITATIVE',
+        name: 'Dermite irritative',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'Alde\u0301hyde formique et ses polyme\u0300res ',
+            name: 'Aldéhyde formique et ses polymères ',
             path: '128.pdf',
             n_table: '1.2.8',
           },
           {
-            name: 'Amines aromatiques, leurs sels et leurs de\u0301rive\u0301s notamment hydroxyle\u0301s, haloge\u0301ne\u0301s, nitre\u0301s, nitrose\u0301s et sulfone\u0301s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Amines aromatiques, leurs sels et leurs de\u0301rive\u0301s notamment hydroxyle\u0301s, haloge\u0301ne\u0301s, nitre\u0301s, nitrose\u0301s et sulfone\u0301s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Amines aromatiques, leurs sels et leurs de\u0301rive\u0301s notamment hydroxyle\u0301s, haloge\u0301ne\u0301s, nitre\u0301s, nitrose\u0301s et sulfone\u0301s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobacte\u0301ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
           {
-            name: 'B\u00e9ryllium et ses compose\u0301s',
+            name: 'Béryllium et ses composés',
             path: '115.pdf',
             n_table: '1.1.5',
           },
@@ -1752,17 +1752,17 @@ export const data = [
             n_table: '3.1 ',
           },
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9es et chloronitr\u00e9es des hydrocarbures benz\u00e9niques  huiles et graisses d'origine min\u00e9rale ou de synth\u00e8se ",
+            name: "Dérivés nitrées et chloronitrées des hydrocarbures benzéniques  huiles et graisses d'origine minérale ou de synthèse ",
             path: '124.pdf',
             n_table: '1.2.4',
           },
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, he\u0301te\u0301rocycliques et aromatiques, et leurs me\u0301langes (white spirit, essences spe\u0301ciales) ; de\u0301rive\u0301s nitre\u0301s des hydrocarbures aliphatiques ; ace\u0301tonitrile ; alcools, alde\u0301hydes, ce\u0301tone, esters, e\u0301thers dont le te\u0301trahydrofurane, glycols et leurs e\u0301thers ; dime\u0301thylformamide, dime\u0301thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
@@ -1772,27 +1772,27 @@ export const data = [
             n_table: '3.13',
           },
           {
-            name: 'Te\u0301trachlorure de carbone ',
+            name: 'Tétrachlorure de carbone ',
             path: '1214.pdf',
             n_table: '1.2.14',
           },
           {
-            name: 'virus des H\u00e9patites A,B,C,D et E ',
+            name: 'virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ERYTHEME MIGRANT DE LIPSCHUTZ',
+        name: 'Erythème migrant de Lipschutz',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobacte\u0301ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
@@ -1802,17 +1802,17 @@ export const data = [
             n_table: '3.13',
           },
           {
-            name: 'Spiroche\u0301toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'DERMITES ECZEMATIFORMES',
+        name: 'Dermites eczématiformes',
         agents: [
           {
-            name: 'Amines aliphatiques, alicycliques ou les e\u0301thanolamines ',
+            name: 'Amines aliphatiques, alicycliques ou les éthanolamines ',
             path: '1211.pdf',
             n_table: '1.2.11',
           },
@@ -1822,7 +1822,7 @@ export const data = [
             n_table: '1.1.11',
           },
           {
-            name: 'Goudrons de houille, les huiles de houille (comprenant les fractions de distillations dites phe\u0301noliques, naphtale\u0301niques, ace\u0301naphte\u0301niques, anthrace\u0301niques et chryse\u0301niques), les brais ',
+            name: 'Goudrons de houille, les huiles de houille (comprenant les fractions de distillations dites phénoliques, naphtaléniques, acénaphténiques, anthracéniques et chryséniques), les brais ',
             path: '1222.pdf',
             n_table: '1.2.22',
           },
@@ -1834,37 +1834,37 @@ export const data = [
         ],
       },
       {
-        name: 'PERIONYXIS ET ONYXIS',
+        name: 'Périonyxis et onyxis',
         agents: [
           {
-            name: 'Animaux et leurs visc\u00e8res',
+            name: 'Animaux et leurs viscères',
             path: '317.pdf',
-            n_table: '3.1.7',
+            n_table: 'NaN',
           },
           {
-            name: 'fruits sucr\u00e9s et leurs r\u00e9sidus et leurs jus',
+            name: 'fruits sucrés et leurs résidus et leurs jus',
             path: '317.pdf',
-            n_table: '3.1.7',
+            n_table: 'NaN',
           },
           {
-            name: 'Mines, b\u00e2timents et chantiers',
+            name: 'Mines, bâtiments et chantiers',
             path: '317.pdf',
-            n_table: '3.1.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'PLAIES ARSENICALES',
+        name: 'Plaies arsenicales',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'OEDEME MALIN',
+        name: 'Œdème malin',
         agents: [
           {
             name: 'Charbon professionnel ',
@@ -1874,7 +1874,7 @@ export const data = [
         ],
       },
       {
-        name: 'PUSTULE MALIGNE',
+        name: 'Pustule maligne',
         agents: [
           {
             name: 'Charbon professionnel ',
@@ -1884,7 +1884,7 @@ export const data = [
         ],
       },
       {
-        name: 'ULCERATIONS',
+        name: 'Ulcérations',
         agents: [
           {
             name: 'Ciments ( Amino-silicates de calcium)',
@@ -1894,7 +1894,7 @@ export const data = [
         ],
       },
       {
-        name: 'PYODERMITES',
+        name: 'Pyodermites',
         agents: [
           {
             name: 'Ciments ( Amino-silicates de calcium)',
@@ -1904,92 +1904,92 @@ export const data = [
         ],
       },
       {
-        name: 'EPITHELIOMA PRIMITIF ',
+        name: 'Epithélioma primitif ',
         agents: [
           {
-            name: "De\u0301rive\u0301s du pe\u0301trole : Huiles mine\u0301rales peu ou non raffine\u0301es, huilles mine\u0301rales re\u0301ge\u0301ne\u0301re\u0301es utilise\u0301es dans les ope\u0301rations d'usinage et de traitement des me\u0301taux, extraits aromatiques, re\u0301sidus de craquage, huiles moteur usage\u0301es, suies de combustion des produits pe\u0301troliers ",
+            name: "Dérivés du pétrole : Huiles minérales peu ou non raffinées, huilles minérales régénérées utilisées dans les opérations d'usinage et de traitement des métaux, extraits aromatiques, résidus de craquage, huiles moteur usagées, suies de combustion des produits pétroliers ",
             path: '125.pdf',
             n_table: '1.2.5 bis',
           },
         ],
       },
       {
-        name: 'ACNE',
+        name: 'Acné',
         agents: [
           {
-            name: 'D\u00e9\u0301rive\u0301s haloge\u0301ne\u0301s des hydrocarbures aromatiques (monochlorobenze\u0300ne, monobromobenze\u0300ne, hexachlorobenz\u00e8ne)',
+            name: 'Dé́rivés halogénés des hydrocarbures aromatiques (monochlorobenzène, monobromobenzène, hexachlorobenzène)',
             path: '123.pdf',
             n_table: '1.2.3',
           },
         ],
       },
       {
-        name: 'PORPHYRIE CUTANEE ',
+        name: 'Porphyrie cutanée ',
         agents: [
           {
-            name: 'D\u00e9\u0301rive\u0301s haloge\u0301ne\u0301s des hydrocarbures aromatiques (monochlorobenze\u0300ne, monobromobenze\u0300ne, hexachlorobenz\u00e8ne)',
+            name: 'Dé́rivés halogénés des hydrocarbures aromatiques (monochlorobenzène, monobromobenzène, hexachlorobenzène)',
             path: '123.pdf',
             n_table: '1.2.3',
           },
           {
-            name: "Virus de l'h\u00e9patite C",
+            name: "Virus de l'hépatite C",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'DERMITES',
+        name: 'Dermites',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'BRULURES CHIMIQUES',
+        name: 'Brulures chimiques',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'DERMITES PHOTOTOXIQUES',
+        name: 'Dermites PHOTOTOXIQUES',
         agents: [
           {
-            name: 'Goudrons de houille, les huiles de houille (comprenant les fractions de distillations dites phe\u0301noliques, naphtale\u0301niques, ace\u0301naphte\u0301niques, anthrace\u0301niques et chryse\u0301niques), les brais ',
+            name: 'Goudrons de houille, les huiles de houille (comprenant les fractions de distillations dites phénoliques, naphtaléniques, acénaphténiques, anthracéniques et chryséniques), les brais ',
             path: '1222.pdf',
             n_table: '1.2.22',
           },
         ],
       },
       {
-        name: 'URTICAIRE',
+        name: 'Urticaire',
         agents: [
           {
-            name: 'Prote\u0301ines du latex (ou caoutchouc naturel) ',
+            name: 'Protéines du latex (ou caoutchouc naturel) ',
             path: '163.pdf',
             n_table: '1.6.3',
           },
           {
-            name: "Virus de l'h\u00e9patite B",
+            name: "Virus de l'hépatite B",
             path: '311.pdf',
             n_table: '3.11',
           },
           {
-            name: "Virus de l'h\u00e9patite C",
+            name: "Virus de l'hépatite C",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'RADIODERMITE AIGUE',
+        name: 'Radiodermite aigue',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -1999,7 +1999,7 @@ export const data = [
         ],
       },
       {
-        name: 'RADIODERMITE CHRONIQUE',
+        name: 'Radiodermite chronique',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -2009,7 +2009,7 @@ export const data = [
         ],
       },
       {
-        name: 'RADIOEPITHELITE DES MUQUEUSES',
+        name: 'Radioepithélite des muqueuses',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -2019,7 +2019,7 @@ export const data = [
         ],
       },
       {
-        name: 'RADIOLESIONS CHRONIQUES DES MUQUESES',
+        name: 'Radiolésions chroniques des muqueuses',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -2029,106 +2029,112 @@ export const data = [
         ],
       },
       {
-        name: 'BRULURES ET IRRITATIONS CUTANEES',
+        name: 'Brulures et irritations cutanées',
         agents: [
           {
-            name: 'S\u00e9l\u00e9nium et ses d\u00e9riv\u00e9s min\u00e9raux',
+            name: 'Sélénium et ses dérivés minéraux',
             path: '120.pdf',
             n_table: '1.1.20',
           },
         ],
       },
       {
-        name: 'DERMITE CHRONIQUE ATROPHIANTE',
+        name: 'Dermite chronique atrophiante',
         agents: [
           {
-            name: 'Spiroche\u0301toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'DERMITES CHRONIQUES',
+        name: 'Dermites CHRONIQUES',
         agents: [
           {
-            name: 'T\u00e9trachlore\u0301thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
         ],
       },
       {
-        name: 'ACRODERMITE PAPULEUSE',
+        name: 'Acrodermite papuleuse',
         agents: [
           {
-            name: "Virus de l'h\u00e9patite B",
+            name: "Virus de l'hépatite B",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ERYTHEME NOUEUX',
+        name: 'Erythème noueux',
         agents: [
           {
-            name: "Virus de l'h\u00e9patite B",
+            name: "Virus de l'hépatite B",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'SYNDROME DE RAYNAUD',
+        name: 'Syndrome de Raynaud',
         agents: [
           {
-            name: "Virus de l'h\u00e9patite B",
+            name: "Virus de l'hépatite B",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'PURPURA',
+        name: 'Purpura',
         agents: [
           {
-            name: "Virus de l'h\u00e9patite C",
+            name: "Virus de l'hépatite C",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'SYNDROME SEC',
+        name: 'Syndrome sec',
         agents: [
           {
-            name: "Virus de l'h\u00e9patite C",
+            name: "Virus de l'hépatite C",
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'LICHEN PLAN',
+        name: 'Lichen plan',
         agents: [
           {
-            name: 'Virus des He\u0301patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'DERMITES RECIDIVANTES',
-        agents: [],
+        name: 'Dermites RECIDIVANTES',
+        agents: [
+          {
+            name: 'NaN',
+            path: 'NaN',
+            n_table: 'NaN',
+          },
+        ],
       },
     ],
   },
   {
-    pathology_name: 'Mal. Infectieuse et parasitaire',
+    pathology_name: 'Pathologies infectieuses et parasitaires',
     pathology_types: [
       {
-        name: 'INSUFFISANCE RENALE AIGUE',
+        name: 'Insuffisance rénale aigue',
         agents: [
           {
             name: 'Agents infectieux du groupe hantavirus',
@@ -2138,7 +2144,7 @@ export const data = [
         ],
       },
       {
-        name: 'SYNDROME HEMORRAGIQUE',
+        name: 'Syndrome hémorragique',
         agents: [
           {
             name: 'Agents infectieux du groupe hantavirus',
@@ -2148,7 +2154,7 @@ export const data = [
         ],
       },
       {
-        name: 'SYNDROME PSEUDO-GRIPPAL',
+        name: 'Syndrome pseudo-grippal',
         agents: [
           {
             name: 'Agents infectieux du groupe hantavirus',
@@ -2166,17 +2172,17 @@ export const data = [
             n_table: '3.14',
           },
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'ATTEINTE ARTICULAIRE',
+        name: 'Atteinte articulaire',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -2186,22 +2192,22 @@ export const data = [
             n_table: '3.1 ',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ATTEINTE CUTANEO-MUQUEUSE ',
+        name: 'Atteinte cutanéo-muqueuse ',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobact\u00e9ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
@@ -2211,12 +2217,12 @@ export const data = [
             n_table: '3.1 ',
           },
           {
-            name: 'Mycoses cutan\u00e9es ',
+            name: 'Mycoses cutanées ',
             path: '318.pdf',
             n_table: '3.18',
           },
           {
-            name: 'P\u00e9rionyxis et onyxis ',
+            name: 'Périonyxis et onyxis ',
             path: '317.pdf',
             n_table: '3.17',
           },
@@ -2226,37 +2232,37 @@ export const data = [
             n_table: '3.13',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ATTEINTE OCULAIRE',
+        name: 'Atteinte oculaire',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'ATTEINTE VISCERALE',
+        name: 'Atteinte viscérale',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'BRONCHO-PNEUMONIE',
+        name: 'Broncho-pneumonie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -2268,10 +2274,10 @@ export const data = [
         ],
       },
       {
-        name: 'DYSENTERIE',
+        name: 'Dysenterie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -2283,20 +2289,20 @@ export const data = [
         ],
       },
       {
-        name: 'ENCEPHALITE',
+        name: 'Encéphalite',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'ENDOCARDITE',
+        name: 'Endocardite',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -2313,87 +2319,87 @@ export const data = [
         ],
       },
       {
-        name: 'ERYSIPELE',
+        name: 'Erysipèle',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'GLOMERULONEPHRITE AIGUE',
+        name: 'Glomérulonéphrite aigue',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'MENINGITE PURULENTE',
+        name: 'Méningite purulente',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'OTITES',
+        name: 'Otites',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'PANARIS',
+        name: 'Panaris',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'PNEUMONIE',
+        name: 'Pneumonie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'SEPTICEMIE',
+        name: 'Septicémie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
         ],
       },
       {
-        name: 'HEPATITE',
+        name: 'Hépatite',
         agents: [
           {
             name: 'Amibes ',
@@ -2411,14 +2417,14 @@ export const data = [
             n_table: '3.13',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ANEMIE',
+        name: 'Anémie',
         agents: [
           {
             name: 'Ankylostomatose professionnelle',
@@ -2431,34 +2437,34 @@ export const data = [
             n_table: '3.1 ',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ATTEINTE GANGLIONNAIRE',
+        name: 'Atteinte ganglionnaire',
         agents: [
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobact\u00e9ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
         ],
       },
       {
-        name: 'ATTEINTE OSTEO-ARTICULAIRE',
+        name: 'Atteinte ostéoarticulaire',
         agents: [
           {
-            name: 'Bacilles tuberculeux et a\u0300 certaines mycobact\u00e9ries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
+            name: 'Bacilles tuberculeux et à certaines mycobactéries atypiques : Mycobacterium avium/intracellulaire, Mycobacterium kansasii, Mycobacterium xenopi, Mycobacterium marinum, Mycobacterium fortuitum ',
             path: '39.pdf',
             n_table: '3.9',
           },
         ],
       },
       {
-        name: 'ATTEINTE PSYCHOLOGIQUE',
+        name: 'Atteinte psychologique',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2473,7 +2479,7 @@ export const data = [
         ],
       },
       {
-        name: 'FIEVRE',
+        name: 'Fièvre',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2483,7 +2489,7 @@ export const data = [
         ],
       },
       {
-        name: 'HEMORRAGIE',
+        name: 'Hémorragie',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2493,7 +2499,7 @@ export const data = [
         ],
       },
       {
-        name: 'MENINGO-ENCEPHALITE',
+        name: 'MENINGO-Encéphalite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2503,7 +2509,7 @@ export const data = [
         ],
       },
       {
-        name: 'NEPHRITE',
+        name: 'Néphrite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2513,7 +2519,7 @@ export const data = [
         ],
       },
       {
-        name: 'PHLEBITE',
+        name: 'Phlébite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2523,7 +2529,7 @@ export const data = [
         ],
       },
       {
-        name: 'PLEURESIE SERO-FIBRINEUSE',
+        name: 'Pleurésie séro-fibrineuse',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2533,7 +2539,7 @@ export const data = [
         ],
       },
       {
-        name: 'PURPURA',
+        name: 'Purpura',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2543,7 +2549,7 @@ export const data = [
         ],
       },
       {
-        name: 'PUSTULE MALIGNE',
+        name: 'Pustule maligne',
         agents: [
           {
             name: 'Charbon professionnel ',
@@ -2553,27 +2559,27 @@ export const data = [
         ],
       },
       {
-        name: 'CONJONCTIVITE',
+        name: 'Conjonctivite',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
         ],
       },
       {
-        name: 'KERATITE',
+        name: 'Kératite',
         agents: [
           {
-            name: 'K\u00e9ratoconjonctivites virales ',
+            name: 'Kératoconjonctivites virales ',
             path: '36.pdf',
             n_table: '3.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE DIGESTIVE',
+        name: 'Atteinte digestive',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -2586,14 +2592,14 @@ export const data = [
             n_table: '3.7',
           },
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'PNEUMOPATHIE AIGUE',
+        name: 'Pneumopathie aigue',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -2603,7 +2609,7 @@ export const data = [
         ],
       },
       {
-        name: 'FORMES TYPHOIDES',
+        name: 'Formes typhoïdes',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -2613,7 +2619,7 @@ export const data = [
         ],
       },
       {
-        name: 'ETAT STUPOREUX',
+        name: 'Etat stuporeux',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -2623,7 +2629,7 @@ export const data = [
         ],
       },
       {
-        name: 'FORME NEUROMENINGEE',
+        name: 'Forme neuroméningée',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -2633,7 +2639,7 @@ export const data = [
         ],
       },
       {
-        name: 'ATTEINTE LOCO-REGIONALE TARDIVE',
+        name: 'Atteinte loco-régionale tardive',
         agents: [
           {
             name: 'Pasteurelloses ',
@@ -2643,7 +2649,7 @@ export const data = [
         ],
       },
       {
-        name: 'MANIFESTATIONS CLINIQUES AIGUES',
+        name: 'Manifestations cliniques aigues',
         agents: [
           {
             name: 'Pasteurelloses ',
@@ -2653,17 +2659,17 @@ export const data = [
         ],
       },
       {
-        name: 'MANIFESTATIONS DE LA POLIOMIYELITE ANTERIEURE AIGUE',
+        name: 'Manifestations de la poliomyélite antérieure aigue',
         agents: [
           {
-            name: 'Poliomy\u00e9lites ',
+            name: 'Poliomyélites ',
             path: '38.pdf',
             n_table: '3.8',
           },
         ],
       },
       {
-        name: 'ATTEINTE NEUROLOGIQUE',
+        name: 'Atteinte neurologique',
         agents: [
           {
             name: 'Rage professionnelle ',
@@ -2676,17 +2682,17 @@ export const data = [
             n_table: '3.13',
           },
           {
-            name: 'T\u00e9tanos professionnel ',
+            name: 'Tétanos professionnel ',
             path: '32.pdf',
             n_table: '3.2',
           },
         ],
       },
       {
-        name: 'HYPERTENSION',
+        name: 'Hypertension',
         agents: [
           {
-            name: 'T\u00e9tanos professionnel ',
+            name: 'Tétanos professionnel ',
             path: '32.pdf',
             n_table: '3.2',
           },
@@ -2695,10 +2701,10 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. r\u00e9nale, v\u00e9sicale, g\u00e9nitale',
+    pathology_name: 'P. rénale, vésicale, génitale',
     pathology_types: [
       {
-        name: 'INSUFFISANCE RENALE',
+        name: 'Insuffisance rénale',
         agents: [
           {
             name: 'Agents infectieux du groupe hantavirus',
@@ -2708,7 +2714,7 @@ export const data = [
         ],
       },
       {
-        name: 'NEPHRITE ',
+        name: 'Néphrite ',
         agents: [
           {
             name: 'Agents infectieux du groupe hantavirus ',
@@ -2716,14 +2722,14 @@ export const data = [
             n_table: '3.19',
           },
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
         ],
       },
       {
-        name: 'LESIONS PRIMITIVES DE LEPITHELIUM VESICAL',
+        name: 'Lésions primitives de l’épithélium vésical',
         agents: [
           {
             name: 'Amines aromatiques et leurs sels et la N-Nitroso-dibutylamine et ses sels ',
@@ -2733,17 +2739,17 @@ export const data = [
         ],
       },
       {
-        name: 'INSUFFISANCE RENALE AIGUE',
+        name: 'Insuffisance rénale aigue',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'EPIDIDYMITE',
+        name: 'Epididymite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2753,7 +2759,7 @@ export const data = [
         ],
       },
       {
-        name: 'FORMES GENITALES SUBAIGUES',
+        name: 'Formes génitales subaiguës',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2763,7 +2769,7 @@ export const data = [
         ],
       },
       {
-        name: 'ORCHITE',
+        name: 'Orchite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2773,7 +2779,7 @@ export const data = [
         ],
       },
       {
-        name: 'PROSTATITE',
+        name: 'Prostatite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2783,7 +2789,7 @@ export const data = [
         ],
       },
       {
-        name: 'SALPINGITE',
+        name: 'Salpingite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -2793,17 +2799,17 @@ export const data = [
         ],
       },
       {
-        name: 'ATTEINTE RENALE',
+        name: 'Atteinte rénale',
         agents: [
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9s du ph\u00e9nol (dinitroph\u00e9nols,dinitro-orthocr\u00e9sol, dinoseb), par le pentachloroph\u00e9nol, les pentachloroph\u00e9nates et par les d\u00e9riv\u00e9s halog\u00e8nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
         ],
       },
       {
-        name: 'EPITHELIOMA CUTANE PRIMITIF',
+        name: 'Epithélioma cutané primitif',
         agents: [
           {
             name: 'Goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon ',
@@ -2813,7 +2819,7 @@ export const data = [
         ],
       },
       {
-        name: "LESION PRIMITIVE DE L'EPITHELIUM URINAIRE",
+        name: "Lésion primitive de l'épithélium urinaire",
         agents: [
           {
             name: 'Goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon ',
@@ -2823,60 +2829,60 @@ export const data = [
         ],
       },
       {
-        name: 'NEPHROPATHIE TUBULAIRE',
+        name: 'Néphropathie tubulaire',
         agents: [
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'NEPHRITE AZOTEMIQUE',
+        name: 'Néphrite AZOTEMIQUE',
         agents: [
           {
-            name: 'Mercure et ses compos\u00e9s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
         ],
       },
       {
-        name: 'NEPHROPATHIE GLOMERULAIRE',
+        name: 'Néphropathie glomérulaire',
         agents: [
           {
-            name: 'Plomb et ses compos\u00e9s',
+            name: 'Plomb et ses composés',
             path: 'plomb.pdf',
             n_table: '1.1.1',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'NEPHROPATHIE TUBULO-INTERSTITIELLE',
+        name: 'Néphropathie tubulo-interstitielle',
         agents: [
           {
-            name: 'Plomb et ses compos\u00e9s',
+            name: 'Plomb et ses composés',
             path: 'plomb.pdf',
             n_table: '1.1.1',
           },
         ],
       },
       {
-        name: 'NEPHRITE',
+        name: 'Néphrite',
         agents: [
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
           {
-            name: 'T\u00e9trachlorure de carbone ',
+            name: 'Tétrachlorure de carbone ',
             path: '1214.pdf',
             n_table: '1.2.14',
           },
@@ -2885,10 +2891,10 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. sang et h\u00e9mopathie',
+    pathology_name: 'P. sang et hémopathie',
     pathology_types: [
       {
-        name: 'SYNDROME HEMORRAGIQUE',
+        name: 'Syndrome hémorragique',
         agents: [
           {
             name: 'Agents infectieux du groupe hantavirus',
@@ -2903,20 +2909,20 @@ export const data = [
         ],
       },
       {
-        name: 'THROMBOPENIE',
+        name: 'Thrombopénie',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Benz\u00e8ne ',
+            name: 'Benzène ',
             path: '122.pdf',
             n_table: '1.2.2',
           },
@@ -2928,22 +2934,22 @@ export const data = [
         ],
       },
       {
-        name: 'HEMOLYSE',
+        name: 'Hémolyse',
         agents: [
           {
-            name: 'Amines aromatiques, leurs sels et leurs d\u00e9riv\u00e9s notamment hydroxyl\u00e9s, halog\u00e9n\u00e9s, nitr\u00e9s, nitros\u00e9s et sulfon\u00e9s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Hydrog\u00e8ne ars\u00e9ni\u00e9',
-            path: 'hydrog\u00e8ne arseni\u00e9_19.pdf',
+            name: 'Hydrogène arsénié',
+            path: 'hydrogène arsenié_19.pdf',
             n_table: '1.1.7',
           },
         ],
       },
       {
-        name: 'ANEMIE',
+        name: 'Anémie',
         agents: [
           {
             name: 'Ankylostomatose professionnelle',
@@ -2951,32 +2957,32 @@ export const data = [
             n_table: '3.15',
           },
           {
-            name: 'Benz\u00e8ne ',
+            name: 'Benzène ',
             path: '122.pdf',
             n_table: '1.2.2',
           },
           {
-            name: 'D\u00e9riv\u00e9s nitr\u00e9s des glycols et du glyc\u00e9rol ',
+            name: 'Dérivés nitrés des glycols et du glycérol ',
             path: '127.pdf',
             n_table: '1.2.7',
           },
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
           {
-            name: 'Ph\u00e9nylhyarazine ',
+            name: 'Phénylhyarazine ',
             path: '1221.pdf',
             n_table: '1.2.21',
           },
           {
-            name: 'Plomb et ses compos\u00e9s',
+            name: 'Plomb et ses composés',
             path: 'plomb.pdf',
             n_table: '1.1.1',
           },
@@ -2986,27 +2992,27 @@ export const data = [
             n_table: '2.1',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'LEUCOPENIE',
+        name: 'Leucopénie',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Benz\u00e8ne ',
+            name: 'Benzène ',
             path: '122.pdf',
             n_table: '1.2.2',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
@@ -3018,57 +3024,57 @@ export const data = [
         ],
       },
       {
-        name: 'APLASIE MEDULLAIRE',
+        name: 'Aplasie médullaire',
         agents: [
           {
-            name: 'Benz\u00e8ne ',
+            name: 'Benzène ',
             path: '122.pdf',
             n_table: '1.2.2',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'HYPOPLASIE MEDULLAIRE',
+        name: 'Hypoplasie médullaire',
         agents: [
           {
-            name: 'Benz\u00e8ne ',
+            name: 'Benzène ',
             path: '122.pdf',
             n_table: '1.2.2',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'NEUTROPENIE',
+        name: 'Neutropénie',
         agents: [
           {
-            name: 'Benz\u00e8ne ',
+            name: 'Benzène ',
             path: '122.pdf',
             n_table: '1.2.2',
           },
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9s du ph\u00e9nol (dinitroph\u00e9nols,dinitro-orthocr\u00e9sol, dinoseb), par le pentachloroph\u00e9nol, les pentachloroph\u00e9nates et par les d\u00e9riv\u00e9s halog\u00e8nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'LEUCEMIES',
+        name: 'Leucémies',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -3085,13 +3091,13 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. cardio-vasculaire',
+    pathology_name: 'Pathologies cardio-vasculaires',
     pathology_types: [
       {
-        name: 'ENDOCARDITE',
+        name: 'Endocardite',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contracte\u0301es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -3103,77 +3109,77 @@ export const data = [
         ],
       },
       {
-        name: 'ARRET CIRCULATOIRE',
+        name: 'Arrêt circulatoire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'INSUFFISANCE CIRCULATOIRE',
+        name: 'Insuffisance circulatoire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'TROUBLE DE LA CONDUCTION',
+        name: 'Trouble de la conduction',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'TROUBLE DU RYTHME',
+        name: 'Trouble du rythme',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'CARDIOPATHIE ISCHEMIQUE',
+        name: 'Cardiopathie ischémique',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'ARTERITE DES MEMBRES INFERIEURS',
+        name: 'Artérite des membres inferieurs',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'HYPERTENSION ARTERIELLE',
+        name: 'Hypertension artérielle',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'PHLEBITE',
+        name: 'Phlébite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -3183,7 +3189,7 @@ export const data = [
         ],
       },
       {
-        name: 'ANGIOPATHIES DES DOIGTS ET ORTEILS',
+        name: 'Angiopathies des doigts et orteils',
         agents: [
           {
             name: 'Chlorure de vinyle',
@@ -3193,7 +3199,7 @@ export const data = [
         ],
       },
       {
-        name: 'HYPERTENSION PORTALE',
+        name: 'Hypertension portale',
         agents: [
           {
             name: 'Chlorure de vinyle',
@@ -3203,7 +3209,7 @@ export const data = [
         ],
       },
       {
-        name: 'SYNDROME ANGIONEUROTIQUE',
+        name: 'Syndrome angioneurotique',
         agents: [
           {
             name: 'Chlorure de vinyle',
@@ -3213,115 +3219,119 @@ export const data = [
         ],
       },
       {
-        name: 'ANGINE DE POITRINE',
+        name: 'Angine de poitrine',
         agents: [
           {
-            name: 'De\u0301rive\u0301s nitre\u0301s des glycols et du glyce\u0301rol ',
+            name: 'Dérivés nitrés des glycols et du glycérol ',
             path: '127.pdf',
             n_table: '1.2.7',
           },
         ],
       },
       {
-        name: 'ISCHEMIE MYOCARDIQUE AIGUE',
+        name: 'Ischémie myocardique aigue',
         agents: [
           {
-            name: 'De\u0301rive\u0301s nitre\u0301s des glycols et du glyce\u0301rol ',
+            name: 'Dérivés nitrés des glycols et du glycérol ',
             path: '127.pdf',
             n_table: '1.2.7',
           },
         ],
       },
       {
-        name: 'INFARCTUS DU MYOCARDE',
+        name: 'Infarctus du myocarde',
         agents: [
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE MYOCARDIQUE',
+        name: 'Atteinte myocardique',
         agents: [
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
         ],
       },
       {
-        name: 'OEDEME PULMONAIRE',
+        name: 'Œdème pulmonaire',
         agents: [
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
         ],
       },
       {
-        name: 'BRADYCARDIE',
+        name: 'NaN',
+        agents: [],
+      },
+      {
+        name: 'Bradycardie',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'HYPOTENSION',
+        name: 'Hypotension',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'INSUFFISANCE VENTRICULAIRE DROITE',
+        name: 'Insuffisance ventriculaire droite',
         agents: [
           {
-            name: "Poussi\u00e8res d'amiante",
+            name: "Poussières d'amiante",
             path: '1113.pdf',
             n_table: '1.1.13',
           },
           {
-            name: 'Poussie\u0300res de carbures me\u0301talliques fritte\u0301s ou fondus contenant du cobalt. ',
+            name: 'Poussières de carbures métalliques frittés ou fondus contenant du cobalt. ',
             path: '114BIS.pdf',
             n_table: '1.1.4 bis',
           },
         ],
       },
       {
-        name: 'TROUBLES ANGIO-NEUROTIQUES',
+        name: 'Troubles angio-neurotiques',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs ite\u0301ratifs du talon de la main sur des e\u0301le\u0301ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },
         ],
       },
       {
-        name: 'SYNDROME DU MARTEAU HYPOTHENAR',
+        name: 'Syndrome du marteau hypothénar',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs ite\u0301ratifs du talon de la main sur des e\u0301le\u0301ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },
         ],
       },
       {
-        name: 'PHENOMENE DE RAYNAUD',
+        name: 'Phénomène de Raynaud',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs ite\u0301ratifs du talon de la main sur des e\u0301le\u0301ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },
@@ -3330,13 +3340,13 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. neuromusculaire et psychiatrique',
+    pathology_name: 'Pathologies neuromusculaires et psychiatriques',
     pathology_types: [
       {
-        name: 'MENINGITE ',
+        name: 'Méningite ',
         agents: [
           {
-            name: "Agents infectieux ou parasitaires contract\u00e9es en milieu d'hospitalisation et d'hospitalisation a\u0300 domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, m\u00e9ningocoque, strepto b\u00e9ta-h\u00e9molytique, fi\u00e8vre typho\u03cade A et B, chol\u00e9ra, fi\u00e8vre h\u00e9morragique, herpes, syphilis, gale, gonocoque)",
+            name: "Agents infectieux ou parasitaires contractées en milieu d'hospitalisation et d'hospitalisation à domicile (staphylocoques, pseudomonas aeroginosa, enterocoque, méningocoque, strepto béta-hémolytique, fièvre typhoϊde A et B, choléra, fièvre hémorragique, herpes, syphilis, gale, gonocoque)",
             path: '310.pdf',
             n_table: '3.10',
           },
@@ -3351,82 +3361,82 @@ export const data = [
             n_table: '3.1 ',
           },
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'COMA',
+        name: 'Coma',
         agents: [
           {
-            name: 'Amines aromatiques, leurs sels et leurs d\u00e9riv\u00e9s notamment hydroxyl\u00e9s, halog\u00e9n\u00e9s, nitr\u00e9s, nitros\u00e9s et sulfon\u00e9s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
           {
-            name: 'D\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques',
+            name: 'Dérivés nitrés des hydrocarbures aliphatiques',
+            path: '1220.pdf',
+            n_table: 'NaN',
+          },
+          {
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
-            path: '1220.pdf',
-            n_table: '1.2.20',
-          },
-          {
-            name: 'Mangan\u00e8se',
+            name: 'Manganèse',
             path: '113.pdf',
             n_table: '1.1.3',
           },
         ],
       },
       {
-        name: 'NARCOSE',
+        name: 'Narcose',
         agents: [
           {
-            name: 'Amines aromatiques, leurs sels et leurs d\u00e9riv\u00e9s notamment hydroxyl\u00e9s, halog\u00e9n\u00e9s, nitr\u00e9s, nitros\u00e9s et sulfon\u00e9s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
         ],
       },
       {
-        name: 'SOMNOLENCE',
+        name: 'Somnolence',
         agents: [
           {
-            name: 'Amines aromatiques, leurs sels et leurs d\u00e9riv\u00e9s notamment hydroxyl\u00e9s, halog\u00e9n\u00e9s, nitr\u00e9s, nitros\u00e9s et sulfon\u00e9s ',
+            name: 'Amines aromatiques, leurs sels et leurs dérivés notamment hydroxylés, halogénés, nitrés, nitrosés et sulfonés ',
             path: '1210.pdf',
             n_table: '1.2.10',
           },
         ],
       },
       {
-        name: 'ENCEPHALOPATHIE',
+        name: 'Encéphalopathie',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
@@ -3438,137 +3448,137 @@ export const data = [
         ],
       },
       {
-        name: 'NEUROPATHIE PERIPHERIQUE',
+        name: 'Neuropathie périphérique',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apre\u0300s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyle\u0300ne ; t\u00e9trachloro\u00e9thyle\u0300ne ; dichloro- ac\u00e9tyle\u0300ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
           {
-            name: 'Plomb et ses compos\u00e9s',
+            name: 'Plomb et ses composés',
             path: 'plomb.pdf',
             n_table: '1.1.1',
           },
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
           {
-            name: 'Virus des H\u00e9patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'ANXIETE',
+        name: 'Anxiété',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'APHASIES',
+        name: 'Aphasies',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'ATAXIE',
+        name: 'Ataxie',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
         ],
       },
       {
-        name: 'CRISES EPILEPTIFORMES',
+        name: 'Crises épileptiformes',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'DEPRESSION',
+        name: 'Dépression',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'DYSARTHRIE',
+        name: 'Dysarthrie',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'ENCEPHALITE',
+        name: 'Encéphalite',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Mangan\u00e8se',
+            name: 'Manganèse',
             path: '113.pdf',
             n_table: '1.1.3',
           },
         ],
       },
       {
-        name: 'MYOCLONIES',
+        name: 'Myoclonies',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'TREMBLEMENTS',
+        name: 'Tremblements',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'ARACHNOIDITE',
+        name: 'Arachnoïdite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -3578,7 +3588,7 @@ export const data = [
         ],
       },
       {
-        name: 'ATTEINTE PSYCHOPATHOLOGIQUE',
+        name: 'Atteinte psychopathologique',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -3588,7 +3598,7 @@ export const data = [
         ],
       },
       {
-        name: 'MENINGO-ENCEPHALITE',
+        name: 'MENINGO-Encéphalite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -3598,30 +3608,30 @@ export const data = [
         ],
       },
       {
-        name: 'AMNESIE',
+        name: 'Amnésie',
         agents: [
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
         ],
       },
       {
-        name: 'DELIRE',
+        name: 'Délire',
         agents: [
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
         ],
       },
       {
-        name: 'VERTIGES',
+        name: 'Vertiges',
         agents: [
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
@@ -3636,19 +3646,19 @@ export const data = [
             n_table: '1.7',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphor\u00e9s anticholin\u00e9st\u00e9rasiques ainsi que par les phosphoramides et car bamates h\u00e9t\u00e9rocycliques anticholin\u00e9st\u00e9rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphor\u00e9s anticholin\u00e9st\u00e9rasiques ainsi que par les phosphoramides et car bamates h\u00e9t\u00e9rocycliques anticholin\u00e9st\u00e9rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'ATTEINTE ANGIO-NEUROTIQUE DES DOIGTS ET ORTEILS',
+        name: 'Atteinte angio-neurotique des doigts et orteils',
         agents: [
           {
             name: 'Chlorure de vinyle',
@@ -3658,27 +3668,27 @@ export const data = [
         ],
       },
       {
-        name: 'ACCIDENTS NERVEUX AIGUS',
+        name: 'Accidents nerveux aigus',
         agents: [
           {
-            name: 'D\u00e9riv\u00e9s halog\u00e9n\u00e9s des hydrocarbures aromatiques (monochlorobenz\u00e8ne, monobromoben\u00e9zne, hexachlorobenz\u00e8ne)',
+            name: 'Dérivés halogénés des hydrocarbures aromatiques (monochlorobenzène, monobromobenézne, hexachlorobenzène)',
             path: '123.pdf',
             n_table: '1.2.3',
           },
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
           {
-            name: 'T\u00e9trachlorure de carbone ',
+            name: 'Tétrachlorure de carbone ',
             path: '1214.pdf',
             n_table: '1.2.14',
           },
         ],
       },
       {
-        name: 'POLYNEVRITE',
+        name: 'POLYNévrite',
         agents: [
           {
             name: 'Hexane ',
@@ -3686,7 +3696,7 @@ export const data = [
             n_table: '1.2.12',
           },
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
@@ -3698,97 +3708,97 @@ export const data = [
         ],
       },
       {
-        name: 'NEUROPATHIE OPTIQUE',
+        name: 'Neuropathie optique',
         agents: [
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apre\u0300s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyle\u0300ne ; t\u00e9trachloro\u00e9thyle\u0300ne ; dichloro- ac\u00e9tyle\u0300ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'NEUROPATHIE TRIGEMINALE',
+        name: 'Neuropathie trigéminale',
         agents: [
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apre\u0300s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyle\u0300ne ; t\u00e9trachloro\u00e9thyle\u0300ne ; dichloro- ac\u00e9tyle\u0300ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'SYNDROME EBRIEUX',
+        name: 'Syndrome ébrieux',
         agents: [
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
           {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
-            path: '1220.pdf',
-            n_table: '1.2.20',
-          },
-        ],
-      },
-      {
-        name: 'SYNDROME NACROTIQUE',
-        agents: [
-          {
-            name: 'Hydrocarbures liquides aliphatiques, alicycliques, h\u00e9t\u00e9rocycliques et aromatiques, et leurs m\u00e9langes (white spirit, essences sp\u00e9ciales) ; d\u00e9riv\u00e9s nitr\u00e9s des hydrocarbures aliphatiques ; ac\u00e9tonitrile ; alcools, ald\u00e9hydes, c\u00e9tone, esters, \u00e9thers dont le t\u00e9trahydrofurane, glycols et leurs \u00e9thers ; dim\u00e9thylformamide, dim\u00e9thylsulfoxyde ',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
             path: '1220.pdf',
             n_table: '1.2.20',
           },
         ],
       },
       {
-        name: 'TROUBLES NERVEUX: MANGANISME',
+        name: 'Syndrome narcotique',
         agents: [
           {
-            name: 'Mangan\u00e8se',
+            name: 'Hydrocarbures liquides aliphatiques, alicycliques, hétérocycliques et aromatiques, et leurs mélanges (white spirit, essences spéciales) ; dérivés nitrés des hydrocarbures aliphatiques ; acétonitrile ; alcools, aldéhydes, cétone, esters, éthers dont le tétrahydrofurane, glycols et leurs éthers ; diméthylformamide, diméthylsulfoxyde ',
+            path: '1220.pdf',
+            n_table: '1.2.20',
+          },
+        ],
+      },
+      {
+        name: 'Troubles nerveux : manganisme',
+        agents: [
+          {
+            name: 'Manganèse',
             path: '113.pdf',
             n_table: '1.1.3',
           },
         ],
       },
       {
-        name: 'ATAXIE CEREBELLEUSE',
+        name: 'Ataxie CEREBELLEUSE',
         agents: [
           {
-            name: 'Mercure et ses compos\u00e9s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
         ],
       },
       {
-        name: 'ENCEPHALOPATHIE AIGUE',
+        name: 'Encéphalopathie AIGUE',
         agents: [
           {
-            name: 'Mercure et ses compos\u00e9s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
           {
-            name: 'Plomb et ses compos\u00e9s',
+            name: 'Plomb et ses composés',
             path: 'plomb.pdf',
             n_table: '1.1.1',
           },
         ],
       },
       {
-        name: 'TREMBLEMENT INTENTIONNEL',
+        name: 'Tremblement intentionnel',
         agents: [
           {
-            name: 'Mercure et ses compos\u00e9s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
         ],
       },
       {
-        name: 'ATTEINTE NEURO-MENINGEE',
+        name: 'Atteinte neuro-méningée',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -3798,7 +3808,7 @@ export const data = [
         ],
       },
       {
-        name: 'CEPHALEES',
+        name: 'Céphalées',
         agents: [
           {
             name: 'Oxyde de carbone ',
@@ -3806,14 +3816,14 @@ export const data = [
             n_table: '1.7',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphor\u00e9s anticholin\u00e9st\u00e9rasiques ainsi que par les phosphoramides et car bamates h\u00e9t\u00e9rocycliques anticholin\u00e9st\u00e9rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'ASTHENIE',
+        name: 'Asthénie',
         agents: [
           {
             name: 'Oxyde de carbone ',
@@ -3823,7 +3833,7 @@ export const data = [
         ],
       },
       {
-        name: 'MALADIE DE PARKINSON',
+        name: 'Maladie de parkinson',
         agents: [
           {
             name: 'Pesticides ',
@@ -3833,57 +3843,57 @@ export const data = [
         ],
       },
       {
-        name: 'CONFUSION',
+        name: 'Confusion',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphor\u00e9s anticholin\u00e9st\u00e9rasiques ainsi que par les phosphoramides et car bamates h\u00e9t\u00e9rocycliques anticholin\u00e9st\u00e9rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'MYOSIS',
+        name: 'Myosis',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphor\u00e9s anticholin\u00e9st\u00e9rasiques ainsi que par les phosphoramides et car bamates h\u00e9t\u00e9rocycliques anticholin\u00e9st\u00e9rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'ENCEPHALOPATHIE CHRONIQUE',
+        name: 'Encéphalopathie CHRONIQUE',
         agents: [
           {
-            name: 'Plomb et ses compos\u00e9s',
+            name: 'Plomb et ses composés',
             path: 'plomb.pdf',
             n_table: '1.1.1',
           },
         ],
       },
       {
-        name: 'SYNDROME VERTIGINEUX',
+        name: 'Syndrome vertigineux',
         agents: [
           {
-            name: 'Pression est sup\u00e9rieure a\u0300 la pression atmosph\u00e9rique ',
+            name: 'Pression est supérieure à la pression atmosphérique ',
             path: '211.pdf',
             n_table: '2.11',
           },
         ],
       },
       {
-        name: 'ATTEINTE DES NERFS CRANIENS',
+        name: 'Atteinte des nerfs crâniens',
         agents: [
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'SYNDROME NEURO-DIGESTIF',
+        name: 'Syndrome neuro-digestif',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3893,7 +3903,7 @@ export const data = [
         ],
       },
       {
-        name: 'TROUBLES PSYCHIQUES AIGUS',
+        name: 'Troubles psychiques aigus',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3901,14 +3911,14 @@ export const data = [
             n_table: '1.2.23',
           },
           {
-            name: 'T\u00e9tanos professionnel ',
+            name: 'Tétanos professionnel ',
             path: '32.pdf',
             n_table: '3.2',
           },
         ],
       },
       {
-        name: 'TROUBLES PSYCHIQUES CHRONIQUES',
+        name: 'Troubles psychiques chroniques',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3918,7 +3928,7 @@ export const data = [
         ],
       },
       {
-        name: 'DELIRE ONIRIQUE',
+        name: 'Délire ONIRIQUE',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3928,7 +3938,7 @@ export const data = [
         ],
       },
       {
-        name: 'SYNDROME DEPRESSIF',
+        name: 'Syndrome dépressif',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3938,7 +3948,7 @@ export const data = [
         ],
       },
       {
-        name: 'CONFUSION MENTALE',
+        name: 'Confusion MENTALE',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3948,7 +3958,7 @@ export const data = [
         ],
       },
       {
-        name: 'POLYNEVRITES',
+        name: 'POLYNévriteS',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3958,7 +3968,7 @@ export const data = [
         ],
       },
       {
-        name: 'NEVRITES',
+        name: 'NévriteS',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3968,7 +3978,7 @@ export const data = [
         ],
       },
       {
-        name: 'NEVRITE OPTIQUE',
+        name: 'Névrite OPTIQUE',
         agents: [
           {
             name: 'Sulfocarbonisme ',
@@ -3978,80 +3988,80 @@ export const data = [
         ],
       },
       {
-        name: 'NEVRITE',
+        name: 'Névrite',
         agents: [
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
         ],
       },
       {
-        name: 'NYSTAGMUS',
+        name: 'Nystagmus',
         agents: [
           {
-            name: 'Travaux \u00e9xecut\u00e9s dans les mines',
+            name: 'Travaux éxecutés dans les mines',
             path: '24.pdf',
             n_table: '2.4',
           },
         ],
       },
       {
-        name: 'ATTEINTE BRACHIALE',
+        name: 'Atteinte brachiale',
         agents: [
           {
-            name: 'Tular\u00e9mie ',
+            name: 'Tularémie ',
             path: '316.pdf',
             n_table: '3.16',
           },
         ],
       },
       {
-        name: 'ATTEINTE OCULAIRE',
+        name: 'Atteinte oculaire',
         agents: [
           {
-            name: 'Tular\u00e9mie ',
+            name: 'Tularémie ',
             path: '316.pdf',
             n_table: '3.16',
           },
         ],
       },
       {
-        name: 'ATTEINTE PHARYNGEE',
+        name: 'Atteinte pharyngée',
         agents: [
           {
-            name: 'Tular\u00e9mie ',
+            name: 'Tularémie ',
             path: '316.pdf',
             n_table: '3.16',
           },
         ],
       },
       {
-        name: 'ATTEINTE PULMONAIRE',
+        name: 'Atteinte pulmonaire',
         agents: [
           {
-            name: 'Tular\u00e9mie ',
+            name: 'Tularémie ',
             path: '316.pdf',
             n_table: '3.16',
           },
         ],
       },
       {
-        name: 'ATTEINTE DE LA G THYROIDE',
+        name: 'Atteinte de la glande thyroïde',
         agents: [
           {
-            name: 'Tular\u00e9mie ',
+            name: 'Tularémie ',
             path: '316.pdf',
             n_table: '3.16',
           },
         ],
       },
       {
-        name: 'TROUBLE ANGIONEUROTIQUE',
+        name: 'Trouble angioneurotique',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs it\u00e9ratifs du talon de la main sur des \u00e9l\u00e9ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },
@@ -4060,238 +4070,238 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'Intoxications aigu\u00ebs',
+    pathology_name: 'Intoxications aiguës',
     pathology_types: [
       {
-        name: 'ATTEINTE CUT-MUQUEUSE',
+        name: 'Atteinte cutanéomuqueuse',
         agents: [
           {
-            name: 'Antimoine et ses d\u00e9riv\u00e9s',
+            name: 'Antimoine et ses dérivés',
             path: '1121.pdf',
             n_table: '1.1.21',
           },
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9s du ph\u00e9nol (dinitroph\u00e9nols,dinitro-orthocr\u00e9sol, dinoseb), par le pentachloroph\u00e9nol, les pentachloroph\u00e9nates et par les d\u00e9riv\u00e9s halog\u00e8nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
         ],
       },
       {
-        name: 'STIBIOSE',
+        name: 'Stibiose',
         agents: [
           {
-            name: 'Antimoine et ses d\u00e9riv\u00e9s',
+            name: 'Antimoine et ses dérivés',
             path: '1121.pdf',
             n_table: '1.1.21',
           },
         ],
       },
       {
-        name: 'ARRET CIRCULATOIRE',
+        name: 'Arrêt circulatoire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE BRONCHO-PULMONAIRE',
+        name: 'Atteinte broncho-pulmonaire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE DIGESTIVE',
+        name: 'Atteinte digestive',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE HEMATOLOGIQUE',
+        name: 'Atteinte hématologique',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE NEUROLOGIQUE',
+        name: 'Atteinte neurologique',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9s du ph\u00e9nol (dinitroph\u00e9nols,dinitro-orthocr\u00e9sol, dinoseb), par le pentachloroph\u00e9nol, les pentachloroph\u00e9nates et par les d\u00e9riv\u00e9s halog\u00e8nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
         ],
       },
       {
-        name: 'HEPATITE',
+        name: 'Hépatite',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
         ],
       },
       {
-        name: 'INSUFFISANCE CIRCULATOIRE',
+        name: 'Insuffisance circulatoire',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'INSUFFISANCE RENALE AIGUE',
+        name: 'Insuffisance rénale aigue',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'SYNDROME DYSENTERIQUE',
+        name: 'Syndrome dysentérique',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'TROUBLES DE LA CONDUCTION',
+        name: 'Troubles de la conduction',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'TROUBLES DU RYTHME',
+        name: 'Troubles du rythme',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'ATTEINTE AUDITIVE',
+        name: 'Atteinte auditive',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'ATTEINTE OCULAIRE',
+        name: 'Atteinte oculaire',
         agents: [
           {
-            name: 'Bromure de m\u00e9thyle',
+            name: 'Bromure de méthyle',
             path: '1215.pdf',
             n_table: '1.2.15',
           },
         ],
       },
       {
-        name: 'ATTEINTE PSYCHOLOGIQUE',
+        name: 'Atteinte psychologique',
         agents: [
           {
-            name: 'Chlorure de m\u00e9thyle ',
+            name: 'Chlorure de méthyle ',
             path: '1216.pdf',
             n_table: '1.2.16',
           },
           {
-            name: "D\u00e9riv\u00e9s nitr\u00e9s du ph\u00e9nol (dinitroph\u00e9nols,dinitro-orthocr\u00e9sol, dinoseb), par le pentachloroph\u00e9nol, les pentachloroph\u00e9nates et par les d\u00e9riv\u00e9s halog\u00e8nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Hydrocarbures aliphatiques halog\u00e9n\u00e9s \u00e9num\u00e9r\u00e9s ci-apr\u00e8s : dichlorom\u00e9thane ; trichlorom\u00e9thane ; tribromom\u00e9thane ; triiodom\u00e9thane ; t\u00e9trabromom\u00e9thane ; chloro\u00e9thane ; 1,1-dichloro\u00e9thane ; 1,2-dichloro\u00e9thane ; 1,2-dibromo\u00e9thane ; 1,1,1- trichloro\u00e9thane ; 1,1,2-trichloro\u00e9thane ; 1,1,2,2-t\u00e9trabromo\u00e9thane ; pentachloro\u00e9thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloro\u00e9thyl\u00e8ne ; t\u00e9trachloro\u00e9thyl\u00e8ne ; dichloro- ac\u00e9tyl\u00e8ne ; trichlorofluorom\u00e9thane ; 1,1,2,2-t\u00e9trachloro - 1,2-difluoro\u00e9thane ; 1,1,1,2-t\u00e9trachloro - 2,2-difluoro\u00e9thane ; 1,1,2-trichloro - 1,2,2- trifluoro\u00e9thane ; 1,1,1-trichloro - 2,2,2-trifluoro\u00e9thane ; 1,1-dichloro - 2,2,2- trifluoro\u00e9thane ; 1,2-dichloro - 1,1-difluoro\u00e9thane ; 1,1-dichloro - 1- fluoro\u00e9thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
         ],
       },
       {
-        name: 'GLOMERULO-NEPHROPATHIE',
+        name: 'Glomérulo-néphropathie',
         agents: [
           {
-            name: 'T\u00e9trachlor\u00e9thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
@@ -4300,28 +4310,28 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. h\u00e9patho-gastro-intestinale',
+    pathology_name: 'P. hépatho-gastro-intestinale',
     pathology_types: [
       {
-        name: 'DOULEURS ABDOMINALES',
+        name: 'Douleurs abdominales',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Mercure et ses compose\u0301s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
@@ -4333,15 +4343,15 @@ export const data = [
         ],
       },
       {
-        name: 'NAUSEES',
+        name: 'Nausées',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
@@ -4351,47 +4361,47 @@ export const data = [
             n_table: '1.7',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'SYNDROME DYSENTERIQUE',
+        name: 'Syndrome dysentérique',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
         ],
       },
       {
-        name: 'VOMISSEMENTS',
+        name: 'Vomissements',
         agents: [
           {
-            name: 'Arsenic et ses compos\u00e9s min\u00e9raux',
+            name: 'Arsenic et ses composés minéraux',
             path: '116.pdf',
             n_table: '1.1.6',
           },
           {
-            name: 'Benze\u0300ne , tolu\u00e8ne, xyl\u00e8nes et tous les produits les renfermant',
+            name: 'Benzène , toluène, xylènes et tous les produits les renfermant',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
@@ -4401,27 +4411,27 @@ export const data = [
             n_table: '1.2.23',
           },
           {
-            name: 'Tolu\u00e8ne',
+            name: 'Toluène',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
           {
-            name: 'Xyl\u00e8ne',
+            name: 'Xylène',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
         ],
       },
       {
-        name: 'TROUBLES DIGESTIFS IMMEDIATS',
+        name: 'Troubles digestifs immédiats',
         agents: [
           {
-            name: 'Benze\u0300ne , tolu\u00e8ne, xyl\u00e8nes et tous les produits les renfermant',
+            name: 'Benzène , toluène, xylènes et tous les produits les renfermant',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
           {
-            name: 'Tolu\u00e8ne',
+            name: 'Toluène',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
@@ -4431,24 +4441,24 @@ export const data = [
             n_table: '1.2.9',
           },
           {
-            name: 'Xyl\u00e8ne',
+            name: 'Xylène',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
         ],
       },
       {
-        name: 'TROUBLES GASTRO-INTESTINAUX APYRETIQUES',
+        name: 'Troubles gastro-intestinaux apyrétiques',
         agents: [
           {
-            name: 'Benze\u0300ne , tolu\u00e8ne, xyl\u00e8nes et tous les produits les renfermant',
+            name: 'Benzène , toluène, xylènes et tous les produits les renfermant',
             path: '122BIS.pdf',
             n_table: '1.2.2 BIS',
           },
         ],
       },
       {
-        name: 'HEPATITE',
+        name: 'Hépatite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4461,52 +4471,52 @@ export const data = [
             n_table: '1.5.5',
           },
           {
-            name: 'Hydrocarbures aliphatiques haloge\u0301ne\u0301s e\u0301nume\u0301re\u0301s ci-apre\u0300s : dichlorome\u0301thane ; trichlorome\u0301thane ; tribromome\u0301thane ; triiodome\u0301thane ; te\u0301trabromome\u0301thane ; chloroe\u0301thane ; 1,1-dichloroe\u0301thane ; 1,2-dichloroe\u0301thane ; 1,2-dibromoe\u0301thane ; 1,1,1- trichloroe\u0301thane ; 1,1,2-trichloroe\u0301thane ; 1,1,2,2-te\u0301trabromoe\u0301thane ; pentachloroe\u0301thane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroe\u0301thyle\u0300ne ; te\u0301trachloroe\u0301thyle\u0300ne ; dichloro- ace\u0301tyle\u0300ne ; trichlorofluorome\u0301thane ; 1,1,2,2-te\u0301trachloro - 1,2-difluoroe\u0301thane ; 1,1,1,2-te\u0301trachloro - 2,2-difluoroe\u0301thane ; 1,1,2-trichloro - 1,2,2- trifluoroe\u0301thane ; 1,1,1-trichloro - 2,2,2-trifluoroe\u0301thane ; 1,1-dichloro - 2,2,2- trifluoroe\u0301thane ; 1,2-dichloro - 1,1-difluoroe\u0301thane ; 1,1-dichloro - 1- fluoroe\u0301thane. ',
+            name: 'Hydrocarbures aliphatiques halogénés énumérés ci-après : dichlorométhane ; trichlorométhane ; tribromométhane ; triiodométhane ; tétrabromométhane ; chloroéthane ; 1,1-dichloroéthane ; 1,2-dichloroéthane ; 1,2-dibromoéthane ; 1,1,1- trichloroéthane ; 1,1,2-trichloroéthane ; 1,1,2,2-tétrabromoéthane ; pentachloroéthane ; 1-bromopropane ; 2-bromopropane ; 1,2- dichloropropane ; trichloroéthylène ; tétrachloroéthylène ; dichloro- acétylène ; trichlorofluorométhane ; 1,1,2,2-tétrachloro - 1,2-difluoroéthane ; 1,1,1,2-tétrachloro - 2,2-difluoroéthane ; 1,1,2-trichloro - 1,2,2- trifluoroéthane ; 1,1,1-trichloro - 2,2,2-trifluoroéthane ; 1,1-dichloro - 2,2,2- trifluoroéthane ; 1,2-dichloro - 1,1-difluoroéthane ; 1,1-dichloro - 1- fluoroéthane. ',
             path: '121.pdf',
             n_table: '1.2.1',
           },
           {
-            name: 'T\u00e9trachlore\u0301thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
           {
-            name: 'Te\u0301trachlorure de carbone ',
+            name: 'Tétrachlorure de carbone ',
             path: '1214.pdf',
             n_table: '1.2.14',
           },
           {
-            name: 'Virus des He\u0301patites A,B,C,D et E ',
+            name: 'Virus des Hépatites A,B,C,D et E ',
             path: '311.pdf',
             n_table: '3.11',
           },
         ],
       },
       {
-        name: 'TROUBLES GASTRO-INTESTINAUX AIGUS',
+        name: 'Troubles gastro-intestinaux aigus',
         agents: [
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
         ],
       },
       {
-        name: 'DIARRHEES',
+        name: 'Diarrhées',
         agents: [
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
           {
-            name: "De\u0301rive\u0301s nitre\u0301s du phe\u0301nol (dinitrophe\u0301nols,dinitro-orthocre\u0301sol, dinoseb), par le pentachlorophe\u0301nol, les pentachlorophe\u0301nates et par les de\u0301rive\u0301s haloge\u0300nes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
+            name: "Dérivés nitrés du phénol (dinitrophénols,dinitro-orthocrésol, dinoseb), par le pentachlorophénol, les pentachlorophénates et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil) ",
             path: '126.pdf',
             n_table: '1.2.6',
           },
           {
-            name: 'Mercure et ses compose\u0301s',
+            name: 'Mercure et ses composés',
             path: 'MERCURE.pdf',
             n_table: '1.1.2',
           },
@@ -4518,7 +4528,7 @@ export const data = [
         ],
       },
       {
-        name: 'CHARBON GASTRO-INTESTINAL',
+        name: 'Charbon gastro-intestinal',
         agents: [
           {
             name: 'Charbon professionnel ',
@@ -4528,7 +4538,7 @@ export const data = [
         ],
       },
       {
-        name: 'ATTEINTE DIGESTIVE',
+        name: 'Atteinte digestive',
         agents: [
           {
             name: 'Ornithose Psittacose ',
@@ -4538,35 +4548,35 @@ export const data = [
         ],
       },
       {
-        name: 'CRAMPES ABDOMINALES',
+        name: 'Crampes abdominales',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'HYPERSALIVATION',
+        name: 'Hypersalivation',
         agents: [
           {
-            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphore\u0301s anticholine\u0301ste\u0301rasiques ainsi que par les phosphoramides et car bamates he\u0301te\u0301rocycliques anticholine\u0301ste\u0301rasiques ",
+            name: "Phosphates, les pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organophosphorés anticholinéstérasiques ainsi que par les phosphoramides et car bamates hétérocycliques anticholinéstérasiques ",
             path: '142.pdf',
             n_table: '1.4.2',
           },
         ],
       },
       {
-        name: 'ICTERE',
+        name: 'Ictère',
         agents: [
           {
-            name: 'T\u00e9trachlore\u0301thane',
+            name: 'Tétrachloréthane',
             path: '1213.pdf',
             n_table: '1.2.13',
           },
           {
-            name: 'Te\u0301trachlorure de carbone ',
+            name: 'Tétrachlorure de carbone ',
             path: '1214.pdf',
             n_table: '1.2.14',
           },
@@ -4575,10 +4585,10 @@ export const data = [
     ],
   },
   {
-    pathology_name: 'P. os et articulaire',
+    pathology_name: 'Pathologies ostéoarticulaires',
     pathology_types: [
       {
-        name: 'ARTHRITE ',
+        name: 'Arthrite ',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4586,14 +4596,14 @@ export const data = [
             n_table: '3.1 ',
           },
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'MONOARTHRITE',
+        name: 'Mono-arthrite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4603,7 +4613,7 @@ export const data = [
         ],
       },
       {
-        name: 'OSTEITE',
+        name: 'Ostéite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4613,7 +4623,7 @@ export const data = [
         ],
       },
       {
-        name: 'OSTEO-ARTHRITE',
+        name: 'Ostéo-arthrite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4623,7 +4633,7 @@ export const data = [
         ],
       },
       {
-        name: 'SACROXITE',
+        name: 'Sacroxite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4633,7 +4643,7 @@ export const data = [
         ],
       },
       {
-        name: 'SPONDYLODISCITE',
+        name: 'Spondylodiscite',
         agents: [
           {
             name: 'Brucelloses professionnelles ',
@@ -4643,10 +4653,10 @@ export const data = [
         ],
       },
       {
-        name: 'OSTEOMALACIE',
+        name: 'Ostéomalacie',
         agents: [
           {
-            name: 'Cadmium et ses compos\u00e9s',
+            name: 'Cadmium et ses composés',
             path: 'CADMIUM.pdf',
             n_table: '1.1.14',
           },
@@ -4658,7 +4668,7 @@ export const data = [
         ],
       },
       {
-        name: 'OSTEOLYSE DES PHALANGES UNGEALES DES MAINS',
+        name: 'Ostéolyse des phalanges unguéales des mains',
         agents: [
           {
             name: 'Chlorure de vinyle',
@@ -4668,197 +4678,197 @@ export const data = [
         ],
       },
       {
-        name: 'CALCIFICATIONS DES LIGAMENTS SACRO-SCIATIQUES',
+        name: 'Calcifications des ligaments sacro-sciatiques',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'CALCIFICATIONS DES MEMRANES INTEROOSEUSES, RADIOCUBITALE OU OBTURATRICE',
+        name: 'Calcifications des membranes interosseuses, radiocubitale ou obturatrice',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'OSTEO-CONDENSATION DIFFUSE',
+        name: 'Ostéo-condensation diffuse',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: 'SYNDROME OSTEO-LIGAMENTAIRE DOULOUREUX OU NON',
+        name: 'Syndrome ostéo-ligamentaire douloureux ou non',
         agents: [
           {
-            name: 'Fluor, acide fluorhydrique et ses sels min\u00e9raux',
+            name: 'Fluor, acide fluorhydrique et ses sels minéraux',
             path: 'fluor.pdf',
             n_table: '1.1.10',
           },
         ],
       },
       {
-        name: "TENDINOPATHIE AIGUE DE L'EPAULE (NON ROMPUE NON CALCIFIANTE AVEC OU SANS ENTHESOPATHIE DE LA COIFFE)",
+        name: "Tendinopathie aigue de l'épaule (non rompue non calcifiante avec ou sans enthésopathie de la coiffe)",
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: "TENDINOPATHIE CHRONIQUE DE L'EPAULE (NON ROMPUE NON CALCIFIANTE AVEC OU SANS ENTHESOPATHIE DE LA COIFFE)",
+        name: "Tendinopathie chronique de l'épaule (non rompue non calcifiante avec ou sans enthésopathie de la coiffe)",
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'RUPTURE PARTIELLE OU TRANSFIXIANTE DE LA COIFFE DES ROTATEURS ',
+        name: 'Rupture partielle ou transfixiante de la coiffe des rotateurs ',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'EPICONDYLITE DU COUDE',
+        name: 'Epicondylite du coude',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'EPITROCHLEITE DU COUDE',
+        name: 'Épitrochléite du coude',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'HYGROMA AIGUE  DU COUDE',
+        name: 'Hygroma aigue du coude',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'HYGROMA CHRONIQUE DU COUDE',
+        name: 'Hygroma chronique du coude',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'SD DE COMPRESSION DU NERF SPE',
+        name: 'Syndrome de compression du nerf sciatique poplité externe',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'HYGROMA AIGU DU GENOU',
+        name: 'Hygroma aigu du genou',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'HYGROMA CHRONIQUE DU GENOU',
+        name: 'Hygroma chronique du genou',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'TENDINITE SOUS QUADRICIPITALE OU ROTULIENNE',
+        name: 'Tendinite sous quadricipitale ou rotulienne',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: "TENDINITE DE LA PATTE D'OIE",
+        name: "Tendinite de la patte d'oie",
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'TENDINITE ACHILIENNE',
+        name: 'Tendinite achilienne',
         agents: [
           {
             name: 'Gestes et postures du travail ',
             path: '27.pdf',
-            n_table: '2.7',
+            n_table: 'NaN',
           },
         ],
       },
       {
-        name: 'FISSURATION OU RUPTURE',
+        name: 'Fissuration ou rupture',
         agents: [
           {
-            name: 'L\u00e9sions chroniques du m\u00e9nisque ',
+            name: 'Lésions chroniques du ménisque ',
             path: '210.pdf',
             n_table: '2.10',
           },
         ],
       },
       {
-        name: 'LESIONS CHRONIQUES DU MENIQUES A CARACTERE DEGENERATIF',
+        name: 'Lésions chroniques du ménisque à caractère dégénératif',
         agents: [
           {
-            name: 'L\u00e9sions chroniques du m\u00e9nisque ',
+            name: 'Lésions chroniques du ménisque ',
             path: '210.pdf',
             n_table: '2.10',
           },
         ],
       },
       {
-        name: 'SCIATIQUE PAR HERNIE DISCALE',
+        name: 'Sciatique par hernie discale',
         agents: [
           {
             name: 'Manutention manuelle de charges lourdes ',
@@ -4866,14 +4876,14 @@ export const data = [
             n_table: '2.9',
           },
           {
-            name: 'Vibrations de basses et moyennes fr\u00e9quences transmises au corps entier ',
+            name: 'Vibrations de basses et moyennes fréquences transmises au corps entier ',
             path: '28.pdf',
             n_table: '2.8',
           },
         ],
       },
       {
-        name: 'RADICULALGIE PAR HERNIE DISCALE',
+        name: 'Radiculalgie par hernie discale',
         agents: [
           {
             name: 'Manutention manuelle de charges lourdes ',
@@ -4881,34 +4891,34 @@ export const data = [
             n_table: '2.9',
           },
           {
-            name: 'Vibrations de basses et moyennes fr\u00e9quences transmises au corps entier ',
+            name: 'Vibrations de basses et moyennes fréquences transmises au corps entier ',
             path: '28.pdf',
             n_table: '2.8',
           },
         ],
       },
       {
-        name: 'ATTEINTE ARTICULAIRE ( EPAULE, HANCHE, GENOU)',
+        name: 'Atteinte articulaire ( EPAULE, HANCHE, GENOU)',
         agents: [
           {
-            name: 'Pression est sup\u00e9rieure a\u0300 la pression atmosph\u00e9rique ',
+            name: 'Pression est supérieure à la pression atmosphérique ',
             path: '211.pdf',
             n_table: '2.11',
           },
         ],
       },
       {
-        name: 'OSTEOPOROSE',
+        name: 'Ostéoporose',
         agents: [
           {
-            name: 'Pression est sup\u00e9rieure a\u0300 la pression atmosph\u00e9rique ',
+            name: 'Pression est supérieure à la pression atmosphérique ',
             path: '211.pdf',
             n_table: '2.11',
           },
         ],
       },
       {
-        name: 'RADIONECROSE OSSEUSE',
+        name: 'Radionécrose osseuse',
         agents: [
           {
             name: 'Rayonnements ionisants ',
@@ -4918,40 +4928,40 @@ export const data = [
         ],
       },
       {
-        name: 'OLIGOATHRITE REGRESSIVE',
+        name: 'Oligoathrite régressive',
         agents: [
           {
-            name: 'Spiroch\u00e9toses ',
+            name: 'Spirochétoses ',
             path: '34.pdf',
             n_table: '3.4',
           },
         ],
       },
       {
-        name: 'ARTHROSE DU COUDE',
+        name: 'Arthrose du coude',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs it\u00e9ratifs du talon de la main sur des \u00e9l\u00e9ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },
         ],
       },
       {
-        name: 'OSTEONECROSE DU SCAPHOIDE CARPIEN',
+        name: 'Ostéonécrose du scaphoïde carpien',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs it\u00e9ratifs du talon de la main sur des \u00e9l\u00e9ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },
         ],
       },
       {
-        name: 'OSTEONECROSE DU SEMI-LUNAIRE',
+        name: 'Ostéonécrose du semi-lunaire',
         agents: [
           {
-            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs it\u00e9ratifs du talon de la main sur des \u00e9l\u00e9ments fixes gestes et postures de travail ',
+            name: 'Vibrations et chocs transmis par certaines machines-outils, outils et objets et par les chocs itératifs du talon de la main sur des éléments fixes gestes et postures de travail ',
             path: '26.pdf',
             n_table: '2.6',
           },

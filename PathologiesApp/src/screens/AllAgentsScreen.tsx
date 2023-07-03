@@ -6,6 +6,9 @@ import {getAllAgents, searchAgents} from 'utils/data';
 import FontAwesome from 'react-native-vector-icons/Feather';
 import {useNavigation} from '@react-navigation/native';
 import {usePathologyStore} from 'store/pathologies';
+import {ImageBackground} from 'react-native';
+
+const image = require('../assets/images/Picture6.png');
 
 const AgentsScreen = () => {
   const navigation = useNavigation();
@@ -19,7 +22,7 @@ const AgentsScreen = () => {
   };
 
   return (
-    <>
+    <ImageBackground source={image} resizeMode="cover" style={{flex: 1}}>
       <Box
         bg="#0891b2"
         alignItems="center"
@@ -33,7 +36,7 @@ const AgentsScreen = () => {
           placeholder="Recherche"
         />
       </Box>
-      <Box bg="white" flex={1}>
+      <Box flex={1}>
         <FlatList
           _contentContainerStyle={{
             py: '15px',
@@ -65,7 +68,7 @@ const AgentsScreen = () => {
           keyExtractor={item => item.name}
         />
       </Box>
-    </>
+    </ImageBackground>
   );
 };
 

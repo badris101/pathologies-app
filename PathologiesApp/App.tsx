@@ -4,20 +4,39 @@ import {NavigationContainer} from '@react-navigation/native';
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
 import HomeScreen from 'screens/HomeScreen';
 import AgentsScreen from 'screens/AgentsScreen';
-import {createBottomTabNavigator} from '@react-navigation/bottom-tabs';
 import AllAgentsScreen from 'screens/AllAgentsScreen';
 import DetailsAgent from 'screens/DetailsAgent';
+import StartScreen from 'screens/StartScreen';
+import IntroScreen from 'screens/IntroScreen';
 
 const Stack = createNativeStackNavigator();
-const Tab = createBottomTabNavigator();
 
 function HomeStackScreen() {
   return (
     <Stack.Navigator>
       <Stack.Screen
+        name="Intro"
+        component={IntroScreen}
+        options={{
+          animation: 'fade',
+          headerShown: false,
+          statusBarColor: '#0891b2',
+        }}
+      />
+      <Stack.Screen
+        name="Start"
+        component={StartScreen}
+        options={{
+          animation: 'fade',
+          headerShown: false,
+          statusBarColor: '#0891b2',
+        }}
+      />
+      <Stack.Screen
         name="Home"
         component={HomeScreen}
         options={{
+          animation: 'fade',
           title: 'Pathologies',
           headerShown: true,
           statusBarColor: '#0891b2',
@@ -40,17 +59,11 @@ function HomeStackScreen() {
           },
         }}
       />
-    </Stack.Navigator>
-  );
-}
-
-function AllAgentsStackScreen() {
-  return (
-    <Stack.Navigator>
       <Stack.Screen
         name="AllAgents"
         component={AllAgentsScreen}
         options={{
+          animation: 'fade',
           headerShown: true,
           headerShadowVisible: false,
           statusBarColor: '#0891b2',
@@ -83,54 +96,7 @@ function App(): JSX.Element {
   return (
     <NavigationContainer>
       <NativeBaseProvider>
-        <Tab.Navigator>
-          <Tab.Screen
-            name="PathologiesTab"
-            component={HomeStackScreen}
-            options={{
-              title: 'Pathologies',
-              headerShown: false,
-              headerTintColor: 'white',
-              headerStyle: {
-                backgroundColor: '#0891b2',
-              },
-              tabBarIconStyle: {display: 'none'},
-              tabBarActiveTintColor: '#0891b2',
-              tabBarLabelStyle: {
-                position: 'absolute',
-                top: 0,
-                bottom: 0,
-                left: 0,
-                right: 0,
-                textAlignVertical: 'center',
-                fontSize: 14,
-              },
-            }}
-          />
-          <Tab.Screen
-            name="AllAgentsTab"
-            component={AllAgentsStackScreen}
-            options={{
-              title: 'Tous les Agents',
-              headerShown: false,
-              headerTintColor: 'white',
-              headerStyle: {
-                backgroundColor: '#0891b2',
-              },
-              tabBarIconStyle: {display: 'none'},
-              tabBarActiveTintColor: '#0891b2',
-              tabBarLabelStyle: {
-                position: 'absolute',
-                top: 0,
-                bottom: 0,
-                left: 0,
-                right: 0,
-                textAlignVertical: 'center',
-                fontSize: 14,
-              },
-            }}
-          />
-        </Tab.Navigator>
+        <HomeStackScreen />
       </NativeBaseProvider>
     </NavigationContainer>
   );
